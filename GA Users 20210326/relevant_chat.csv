@@ -1,0 +1,650 @@
+Statement of needs often downplay alternates. Hovercraft transit about the same time. Importantly what are drone weather limitations? Vans and ferry will operate in all weathers - Skyports Oban trial said they couldnt operate 40% of time due wind so have extended trial. Important issue.
+
+Lots of demand when there is no cost to users and government grants paying providers
+
+where is the demand from ? There does not appear to have been a business case published for any TDA examining the drone versus alternates
+
+UTM in 5 years is very ambitious
+
+You need autonomous detect and avoid certified for every BVLOS drone, so no need for segregation
+
+Wish list - Also needs to work in all terrains, e.g. around high ground and associated valleys
+
+Sounds like it would preclude the model flyers???
+
+@GA Pilot 18: yes, but who certifies that the detect and avoid algorithms are good enough, and how do we get stakeholders to accept less than perfect (ie, there will always be a level of uncertainty and less than 100% accuracy on these tasks). What is good enough? And who decides?
+
+see and avoid based on transponders (for everyone else) is impractical. UAV technology needs to be complete capability in tha regard - it is available
+
+The issue is if the GA aircraft EC has to be certified equipment and installation, this will be very expensive
+
+Class Lima - Is segregation
+
+Detect and avoid already FAA certified, this is the only solution
+
+Autonomous DAA still requires a piece of conspicuity else you are reliant on radars instead of handshakes etc
+
+TCAS isn't autonomous DAA for instance
+
+Buffer zone definitions are critical to any airspace lateral and vertical definitions
+
+No it doesnâ€™t it relays on onboard equipment in the drone, LIDAR and radar based
+
+The DfT has offered grants for transponders, these were. Due to be mandated by 2022
+
+Have you considered frequency congestion if VHF auto broadcast?
+
+Think VHF position reports is a sensible option - works well for aircraft in existing class G
+
+I agree with [GA Pilot 30] and GA Pilot 18. Detect and Avoid on NON-cooperative targets (wires, birds, parascenders, model planes, masts, hobby drones) is the key and until this technology is mature enough the industry isn't ready - all these proposals gloss over true DAA.
+
+broadcasting position - is placing avoid responsibility on other pilots - unreasonable
+
+there is no mandate for transponders pending with CAA
+
+There are no proposals for mandated EC
+
+Have you ruled out see and avoid as part of the solution - so make drones highly visible
+
+VHF transmission idea good, but can't be on different freq from main ATC in area. Few GA have twin freq reception
+
+Experience so far with Skyports in Scotland has been very poor. There is now a total lack of trust. They did not engage with GA, despite claiming otherwise, they avoid difficult questions, and provide misleading info. Their ADSB-out does not work. And the TDAs are far too wide. 3km, for 6 flights a day?
+
+Commercial drone operators arenâ€™t providing transponders or any EC free of charge to other airspace users, so you are expecting other airspace users to purchase equipment for your benefit to subsidise your operation. Totally unacceptable
+
+Sense and avoid is a basic requirement of equitable access to airspace
+
+Manned aviation cannot see drones therefore drones need to take avoiding action
+
+Not just frequency congestion but also individual channel congestion
+
+The big question is, how do general aviation pilots see and avoid drones, unless they can see them? Drones are too small for VFR deconfliction. Some form of EC is required?
+
+If drones operated under the same reliability / safety rules as manned aircraft there would be no need to route differently for ground risks. Permit aircraft proven reliability before flying over built up areas for instance
+
+Goodwood debacle. It was a LOT more than an incident.
+
+This is a very good, professional presentation, albeit with some areas that need refinement. However the UAS industry and CAA needs to be more diligent in policing other members of its community who don't meet such standards. They are damaging confidence in and the credibility of the industry.
+
+Commercial drone operators should be spending their time certifying a reliable autonomous detect and avoid system, when this is certified there should be no need for any segregation and they can operate when they like below 400ft with no requirement for any other airspace users to buy equipment
+
+Unmanned aircraft canâ€™t â€˜sense and avoidâ€™ in the same way as manned aircraft, hence the need for a different solution
+
+Some Hobby products are better than some of the professional products
+
+Drones RPAS UAM UAS what is the clsssification
+
+Is class Lima any different from a mode S ES TMZ?
+
+It will cost approx Â£1500 to upgrade my Filser mode s transponder to ADSB out. Who pays for that?
+
+GA Pilot 18 is correct, True DAA on all targets, cooperative and non cooperative below 400ft is the key
+
+They can sense and avoid, itâ€™s done in the US, if they canâ€™t sense and avoid you may as well forget them then
+
+Goodwood was an example of why the CAA needed to â€˜step upâ€™ to UAS certification, which is now has
+
+reliability - ARP4761 is a model for airworthiness
+
+Remember itâ€™s not just GA aircraft you have to avoid, itâ€™s paragliders, model fliers, birds, hobby drones, you arenâ€™t going to get them all to buy and fit expensive equipment
+
+You need to think in terms of deconfliction at strategic (flight planning), operational - more to follow, and tactical levels. DAA is just the tactical level
+
+Very interested in learning more about the 'class L' operating technology options/ideas, and how that fits with existing developments around emerging TDA replacement opportunities.
+
+Class L just a TMZ?
+
+All airspace users have to be conspicuous..
+
+A TMZ is just more segregation
+
+What do you mean by high integrity avionics, Jim? Redundancy alone won't meet every case - it's the architecture that's key. What hardware and software integrity levels do you think are required?
+
+Standards, and interoperability are very good points
+
+No all airspace users donâ€™t have to be conspicuous. If commercial drone operators want that, they should be developing a free of charge conspicuous device that everyone can use
+
+While we all, I'm sure, understand and sympathise with need for improved NHS logistics why do drone operators need to carry out trials for each individual NHS Trust? This entails multiple cost, multiple TDAs and multiple responses to ACPs. Much, much better surely to carry out 1 trial for NHS nationally with various organisations - inc suppliers of drones - sharing all data? Moreover, there is already adequate DA airspace available right across the UK - MoD DAs - why can drone suppliers not try to use some of that airspace?
+
+How is Class L being coordinated with EASA U Airspace. Is it the same or is it different?
+
+High software assurance levels are also needed
+
+This is a welcome development Jim. I am willing to get involved up here in Scotland. I have access to 2 ac and adsb out, Skyecho, Mode S, Pilotwaware.
+
+But it is also the case birds, hobby drones - are also risks to any operator so saying only UAS need to do that for instance isn't correct
+
+: [Air Traffic Control 1] [R and D 2] - how do you get all airspace users to do that...get all model flyers, parascenders, hobby drone-ists to buy a Â£500 device? Sorry cant agree.
+
+who / how is the pilot / route programmer assured / made responsible ?
+
+and EC doesn't cover non-cooperative targets like birds, masts, etc
+
+Exactly [Microlight Pilot 7], so arrogant that the commercial drone operators expect all these people to spend money so that the drone operators can make profits.
+
+A TMZ does not require an ANSP
+
+How do you guarantee that drone operators adsbout is functional? Skyports claimed to have adsb out on their trial at Oban, but when I went up to find them, it turns out the software is faulty.
+
+Why do you not conjoin with the Goodwood project who are doing many of the same things with similar objectives
+
+TMZs DO NOT require a service provider
+
+TMZ without a service is even worse because it doesnâ€™t allow people without a transponder to call up and get clearance to cross the TMZ!! Class L is totally unacceptable
+
+TMZ would restrict general aviation pilots (ADS-B Mode-S equipage). We need something more flexible which allows other EC devices to be used, with rules based on risk
+
+The VHF transmission from Drones is unrealistic.
+
+Class L also doesnâ€™t cover model fliers, hobby drones paragliders etc, you just ban them completely?
+
+How does that align Jonathan with the EC consultation by the CAA that stated a TMZ must have an airspace controlling authority that is a certified ANSP?
+
+South East UK is probably not the best place to conduct the trials. Llanbedr or Aberporth are better and with Aberporth there is existing airspace available
+
+[Microlight Pilot 7] - there are already CAA rules covering hobbyists, model aircraft, drones etc. This is all already in palce
+
+So the idea is to insert class lima into class G airspace?
+
+Frequent military exercises on west coast of Scotland have GPS jamming ....
+
+Consider the use of ADS-B Obstruction beacons to support model and paraglider operations from fixed sites. One beacon to mark the activation of multiple airframes
+
+VHF / 30 Secs - will block the frequency for others - nonsense
+
+vhs out is unrealistic. There is enough work load without a number of drones reporting in your ear.
+
+What about cross country flying paragliders?
+
+Bird strike is a ongoing risk to aircraft, as are masts, look at the tragic helicopter crash in Australia this week - this work should now be done by drones. Not allowing it probably breaches the regulatorâ€™s duty of care to airmen.
+
+Speaking as an ATCO and pilot, VHF would be FAR too busy. ADSBout and Flightradar24 display is the way to go.
+
+GNSS failure probability MIGHT be very low but jamming of GNSS is prevalent with many instances every day. Yes. they tend to be localised to hide movement of hi value stolen cars down UK motorways but GPS jamming and spoofing over much wider areas has been experienced. In my cockpit I use map/stopwatch and GPS - how would drone cope with jamming/spoofing of GPS?
+
+VHF voice frequencies already cluttered. Not really a viable option.
+
+FR24 isn't defined as a safety critical system. Police are very aware of GPS spoofing
+
+Situational awareness in Class G via VHF transmissions is not possible. Everybody would have to transmit very frequently, self-announcing every change. That wouldn't and doesn't work with current flight volumes - it won't get any better with a higher density of traffic with many UAS inserted.
+
+exactly
+
+IN terms of not being able to call up if youâ€™re not transponding, saying it is unacceptable doesnâ€™t progress anything, the only answer in this airspace will be to transcend.
+
+Do you need to rely on just one detect and avoid technology, probably working in a layered fashion. There is no 100% solution - but combining several reduces overall risk.
+
+all weather - then you need to follow IFR flight plan and ATC instructions...
+
+transpond* (sorry, autocorrect!)
+
+Autonomous detect and avoid is already FAA certified, yes it costs, but that is YOUR cost of doing business. Rather than making everyone else pay for equipment for your benefit!
+
+Correct GA Pilot 33 - the answer is a layered approach
+
+As a GA pilot I would want a drone to appear on my Sky Demon display. ADSB in and out would have to be mandatory to make it safe.
+
+The problem will come when there are multiple drones operating-
+
+Has this concept, Class L, been introduced to the CAA's Airspace Modernisation Strategy and the Lower Airspace Strategy. It all seems to be a concept in isolation!
+
+class L- Is additional / unnecessary complication and risk for other users
+
+Also if you make large drones highly visible - for example high intensity lighting then GA pilots have an opportunity to avoid visually
+
+But GA Pilot 18 - you are referring to I presume IRIS automation?
+
+This is a TMZ with conditions
+
+less flexible TMZ
+
+What about multiple operators using their own protocols?
+
+The flexibility only has to be enough to be safe...
+
+If class Lima is uncontrolled, if GA pilots are required to carry additional equipment (especially if certfieid) then its not really Class G!
+
+Class L would work against CAA wish to simplify lower airspace. Effectively it is Class G with a TMZ.
+
+Why did you only make that trip once?
+
+Preferred option would be proper integration, sense and avoid in Class G. As per the FAA model in USA?
+
+I think thatâ€™s the point GA Pilot 33, itâ€™s not Class G as we know it
+
+Class L is 'controlled' airspace by requirement for some form of transponder. Class G is uncontrolled and I love class G for being able to move around the UK WITHOUT talking, listening or transponding - where safe of course. So how much Class G would become Class L?
+
+So how many flights have been conducted within the Solent TDA
+
+Class G rules with new equipage requirements this will require a rules update
+
+This is not just about NHS flights .... when operational there will be massive increase from Amazon, DHL, etc.. you need a system to cope with that
+
+Do you see this as a managed step towards full integration?
+
+TMZs have now been redefined to allow a multiple of rules and emissions to be potentially applicable to a TMZ . the rule set applicable to a TMZ to accommodate BVLOS operations probably does require a specific title but perhaps not an airspace classification. TMZ(BVLOS) perhaps?
+
+If drones have an avoid capability, how do we ensure that drone and GA aircraft that come into conflict takes coordinated avoiding actions that moves them apart not the opposite
+
+I think New User - that is the challenge - how can you fly your GA aircraft safely when the traffic will increase, and it will, isn't part of this to make yourself visible?
+
+GA Pilot 33 - Rules of gthe Air?
+
+Trials at Oban have been cancelled about 40% of the time due to wind, cloud, rain.
+
+what cloud and viz limits
+
+[GA Pilot 5], thatâ€™s right, proper integration is the end state.
+
+[GA Pilot 1], very true, there will be more airspace users.
+
+But [GA Pilot 23] - where does it state a TMZ does not require an airspace controlling authority?
+
+My point about the number of Lee-Binstead flights was not to rubbish the trials and lessons learnt but merely to highlight that the activation of TDA and segregation is very inefficient in airspace utilisation.
+
+My old gliding instructor passed away in a collision with a GA aircraft. Human eyes are not good enough to spot a manned aircraft head-on. They don't stand a chance with drones
+
+[Glider Pilot 4], yes, the overwhelming consensus is that you end up with full integration eventually.
+
+Aleks - We do fly our aircraft safely and we are visible. You are introducing something that needs to avoid us.
+
+thank you [Other 1] for your honest appraisal
+
+But [GA Pilot 23]  - where does it state a TMZ does not require an airspace controlling authority? Confirmed by Airspace Regulation in the CAA within the last few weeks and embedded in new TMZ policy draft
+
+That didnâ€™t answer the question reference weather limits ie Low visibility ops cloud minima and viz minima please
+
+GA Pilot 33, great question on avoidance, we can give some detail on how that works
+
+Aleks - it isn't that a TMZ requires an ANSP it is the other way round, there is nothing that says it does need an ANSP
+
+As James has stated that is not a failsafe solution
+
+[GA Pilot 7] - rules only cover some cases, for example at close quarters a rapid climb or decent might be better, providing the conflciting aircraft doesn't do the same
+
+A TMZ would work. But i'm not sure this would be very acceptable to the GA community longer term. It might be a good stepping stone though
+
+For certain types of operations clearly the drone can be a good option ie heart delivery blood etc however who will pay for the UTM infrastructure and who will your proposal fit into that future
+
+Moving away from technology to finance - is the thinking that everyone who wants to use class lima it pays for the kit themselves?
+
+LIDAR is very expensive
+
+Jim this is not about transponder technology, itâ€™s about drones detecting anything in the sky, not just GA aircraft. Birds donâ€™t have EC, nor do paragliders, hang gliders etc
+
+GA Pilot 33 - agree. RoTA is a start but needs more 4D solutions, which likely means handshaking = more tech = more expense = more to go wrong
+
+Do you have a CAA licenced engineer overseeing your operation. Have you referred to a Part 21 design authority and complied with the processes of that design mechanism?
+
+On the discussion of see and avoid - its what we all curretly use in class G. the problem with full reliance on EC is that the system in aircraft need to be certified to ensure full sperical coverage and also needs to be highly reliable - this can result in big cost for GA operators to equip aircraft
+
+[GA Pilot 3] - who pays for the infrastructure? There are clever answers already to this problem. I wont say too much yet
+
+true DAA for non-cooperative targets I guess is complex and expensive and I feel just addressing EC is fudging the issue and moving costs to the GA community
+
+Who,pays for the infrastructure it should be all paid for by the commercial drone operators as its all for their benefit.
+
+[GA Pilot 3], there are good answers on the economic model (that are much better than the status quo)
+
+Visibility off drones. I have trialled this. It is Very hard to spot from the air, especially over the sea with white waves. It is the size of a large bird. EC is an absolute requirement. Weather limitation for Oban trial is supposed to not activate TDA if cloud base is below 1500â€™, or wind over 25kts. Reality is, TDA is activated waiting for weather improvement.
+
+High VISUAL conspicuity will aid the bird in avoiding you: It takes 2 to collide
+
+GA Pilot 18: Who,pays for the infrastructure it should be all paid for by the commercial drone operators as its all for their benefit. Agred
+
+[GA Pilot 22], the best thing to do is to use the DfT grant, as you will need a transponder more and more in the future.
+
+Its a case of avoiding areas of increased bird activity such as coastal areas. these are known threat areas. Unfortunately you appear to operate around the coast.
+
+A TDA can have access conditions that allow access with EC
+
+[Microlight Pilot 7] - the grant is there, cost is not the isse
+
+@[Air Traffic Control 1] , the DfT grant is useful, but not the permanent answer to establishment of class L
+
+Correct [GA Pilot 30], it just deals with the costs aspect
+
+Hi guys (autopilot designer here) the way I see DAA working is in layers. Layer 1 is electronic conspicuity, we detect everyone who says where they are and avoid them. This is done. Layer 2 is that we ingest the data from ground radars (like neuron) which can communicate the position of large uncooperative vehicles to us. We are ready for this data and waiting on the ground network to develop to provide us with this. Layer 3 is the visual detect and avoid. This is hard because it can be faulty (just like a human) but it may allow us to make a small movement (within a limited range) to go up / down by 50 ft to avoid a bird.
+
+Many GA aircraft don't have transponders
+
+You are limiting clas L and the rest of GA -
+
+You cannot mandate a segregation model refer to transport ACT 2000
+
+A TDA can have access conditions that allow access with EC That is by definition a TMZ not a TDA
+
+The infrastructure costs are not clear or transparent - nor is the investment costs ---in other areas there is a discussion around an information exchange requirements
+
+The UK coast is 31000km long. most people fly there.
+
+Â£250 pounds doesn't go far for a transponder
+
+[GA Pilot 3] - A full costing analysis for infrastructure has been done including service and maintenance
+
+I believe the FAA have just mandated all UAVs including recreational aircraft (fixed wing/multirotor) e.g. R/C models etc. over .55Lbs will need conspicuity equipment by 2024
+
+DfT grant is peanuts compared to the cost of transponders and the installation cost. There are also no battery powered transponders. ADSB is pointless as it is not seen by any U.K. radar, so doesnâ€™t give you any other airspace access.
+
+the FAA also madate that UAV avoid manned aircraft
+
+GA Pilot 18 - but are you saying no manned aircraft do not hit a Bird or have had AirProxes with paragliders, hang gliders etc
+
+the bottom line is that Class L will exclude many airspace users; model flyers, parascenders and others who cant afford to pay Â£500 for an EC device an that goes against CAA vision of airspace for all.
+
+The range of craft and equipment in GA is analogous to boats and sailing. Would you reasonably expect everyone from paddle-borders up to buy kit of no use to them otherwise to avoid being excluded from the area or hit by an autonomous speedboat?
+
+Very happy to comment and contribute on the Oban/Skyports experience. I run a seaplane training business, and they have effectively excluded me from a large part of my flying area. CAA scrutiny of Skyports was dreadful.
+
+Alex, yes manned aircraft hit birds, but generally are only damaged and can keep flying. Probably not the case with a drone hitting a red kite,
+
+Do you have an idea of the volume of GA operations in class G
+
+Why is it not posible to set airworthiness standards for drones?
+
+scruntinising the drone is a role for an organisation akin to the LAA / BMAA
+
+It isn't just the cost of EC for light weight aviation it is also the efficacy of low powered devices mounted close to the RF sink that is the human body
+
+INformation exchange is achieved over the ground infrastructure, this is provided by third parties, more to follow.
+
+Iâ€™d be in favour of EC if there was one single box that saw everyone, not just PAW, EC2 etc. I canâ€™t fit EC boxes in my small aeroplane anyway!
+
+[GA Pilot 14], and it needs to be seen by ATC as well to make it useable!
+
+How accurate is the GPS onboard UAVs? Why are the TDAs 3000m wide?
+
+{GA Pilot 14]: this is the plan
+
+Yup, FAA mandated it, CAA says it will be â€˜industry led'
+
+There are lots of R&D projects covering drones but with little co ordination - Catapult has suggested that the way forward is through segregated airspace -
+
+CAA seems to be in the pockets of the commercial drone operators and avionics manufacturers!
+
+GA Pilot 18 - there is a good technical solution to your question that we can share.
+
+But given GA Pilot 18 you are saying manned aircraft also hit birds - is your argument more around the airworthiness and the fallout and not the collision aspects?
+
+I think GA Pilot 18 is making the point that setting aside EC - how do drones see and avoid on non-cooperative targets?
+
+I'm still looking for the reference about TMZ and ANSP as the CAA Slide was very clear, Jonathan - happy to PM me if it helps https://www.gatco.org/wp-content/uploads/2020/10/RMZ_TMZ-PS-Proposal_Final.pdf
+
+[Microlight Pilot 7] - airspace for all, of the equitable use of airspace to give it itâ€™s official term, is the fundamental principle that has to be abided by - the question is just how.
+
+agreed
+
+Alex, my point really is that drones need to be able to see and avoid all threats in the sky. This is much more than just about GA aircraft.
+
+totally with GA Pilot 18. This is a very narrow solution
+
+[Microlight Pilot 7] -great question on how drones see and avoid, weâ€™re very happy to share the solution for that.
+
+My counter to that GA Pilot 18 is that doesn't even happen for any manned aircraft (I fly an A320) so are you asking for the impossible
+
+SO far I cannot perceive hoe paragliders could operate in class Lima
+
+[Microlight Pilot 7] - what youâ€™re hearing isnâ€™t the full (technical) solution, yet.
+
+[Air Traffic Control 1] , who do you work for?
+
+Alex, not it might not happen for every aircraft, but it needs to happen for BVLOS drones!
+
+are you a drone Op [Air Traffic Control 1]? DAA on non-cooperative targets is the key to making this work
+
+Neuron - you might have heard Professor Scanlan describing us.
+
+Skyports operating in Scotland not Sky Scotland
+
+thank you [Air Traffic Control 1]
+
+That sounds rather threatening
+
+I totally agree Jim
+
+Fit in or else
+
+Ask Aleks about CUAS, heâ€™s a BA Captain and a CUAS expert.
+
+yes
+
+I think that the TDA approach isn't practical at scale - so we need an alternative slution
+
+why not NOTAMs instead of TDA
+
+https://www.caa.co.uk/General-aviation/Aircraft-ownership-and-maintenance/Electronic-Conspicuity-devices/
+
+A TDA with a DACS, radio, is less segregated that the proposed Class L/TMZ
+
+Jim, the solution is a proper certified Detect and Avoid for the BVLOS drones, as already certified by the FAA. Stop trying to go around the subject and get it done!! You canâ€™t go with these half baked solutions and getting everyone else to pay,
+
+Jim, EC is a very narrow solution for GA. True DAA on non-cooperative targets is the key for BVLOS ops as it encompasses all air users.
+
+GA Pilot 33, thatâ€™s right, to meet the NHSâ€™s full needs would require over 30k TDAsâ€¦
+
+Best efforts have to be made [GA Pilot 18] - I'm just saying we can't expect perfection. Also I think we are all agreed that this is a more fundamental challenge than UTM which is down the road.
+
+RESPECT â€¦â€¦ yes. Both ways
+
+the session started with integration and just stated less segregated Stick with the former !
+
+The FAA is outside of the drone development as the USA is adopting a community based approach to operations up to 400 feet see NASA projects
+
+Indeed. Thereâ€™s a big difference between integrated and segregated.
+
+I would be interested to hear what the panel envisage the volume of Class Lima being? I represented Defence Airspace Air Traffic Management (DAATM) and my key concern would be interactions between drones and fast jets in the UK Low-Flying system.
+
+The point is that the drone (both recreational and commercial), GA and gliding communities need to come together to find a solution to safely integrate. I don't think its fair or very imaginative to keep segregating via TDAs
+
+[GA Pilot 1] - well said and thank you.
+
+Jim there are ICAO issues with developing a new airspace classification.
+
+We need a solution that works at potentially all altitudes, not just limited to sub 400ft the FAA policy is integration
+
+I fear the Skyports experience doesn't reflect well on the CAA's oversight of the TDA approval or post-implementation review processes. I suspect while technically competent in terms of UAS operations, Skyports are naive at best when it comes to understanding the airspace environment in which they are operating.
+
+Although you haven't mentioned this, is there an overall starting point which would be to keep drone and GA operations segreated as far as possible? Ideally areas of class L would be kept as small as possible?
+
+proportional also needs to give consideration to other aspects of class G. Potentially closing an airfield for a UAV TDA os madness
+
+Why no DACS â€¦. pay for one
+
+There is always someone available to deactivate a TDA
+
+Yes it is possible to have a DACS for a TDA, you just have to get a mobile control tower and radio licence. As people do when they set up large aviation events at places like Cheltenham races etc.
+
+Please consider the tactical notification of TMZ/TDA activation via FIS-B TFR field. Allows granularity in airspace management not previously achieved.
+
+Part of the ongoing Airspace Modernisation Strategy is to look at dynamic flexible use of airspace. This proposal seems to be a backyard step.
+
+https://miro.com/app/board/o9J_lPC_GtA=/
+
+Just a couple of notes- the CAA recently consulted on some proposals to the RMZ/TMZ policy statement- keep an eye out for the response and updates to the policy statement in due course. Also- regarding SORA, the CAA has adapted the SORA for use within the UK, taking into account the UK operating environment - so keep an eye out for a large update to CAP 722A shortly which will explain the 'UK' version of the SORA.
+
+Please also consider TIS-B to rebroadcast and share a collaborative airspace picture of varying emission technologies.
+
+TDA deactivation .. ? No notams at the weekend. Requires a good 2way VHF link to enable. Not really tactical enough?
+
+Airspace management and tactical activation/deactivation must improve dramatically. We have the tools to do it now.
+
+This sounds like investment is required. Flying is very expensive, drones will have to invest in airworthiness, ground support infrastructure and be able to comply with existing manned operating procedures and laws. Unfortunately you canâ€™t do this on a small budget, for example a commercial operation should be working under an AOC.
+
+[GA Pilot 30] - there is an 8hr video that summarises the efforts from 2015-2020, there is a long way to go on their approach https://nari.arc.nasa.gov/utm2021tim The FAA mandate EC, but their approved BVLOS is using visual camera in limited as you can imagine.
+
+There is a vital rule here: in all circumstances UAVs MUST make the avoiding action when in proximity to manned aircraft. Laws or robotics and all that...
+
+There is one underlying thing across this whole event â€“ There is NO-ONE who fully understands everything that goes on in Class G. This is something that has periodically been acknowledged by the CAA. This meeting does not include significant current players such as MoD, Air Ambulance, Police, commercial helicopters, etc. etc. Let alone the numbers of UAVs being proposed by the likes of Amazon!
+
+https://miro.com/app/board/o9J_lPC_GtA=/
+
+Canâ€™t work whiteboard on iPad. Benefits ? It should make all drones visible.
+
+Sorry but this white board is a step too far for those of us who haven't used it before
+
+Positives - the concept contributes to an integrated way forward.
+
+Its a move away from the present TDA segregated scenario but still requires Manned Ops expenditure and is still segregation light
+
+Could Class L not be called Class G+ and applied solely to drones? ie. they can access it so long as they have EC and DAA?
+
+To what level do you see Class L being?
+
+Class Lima is not an ICAO class of airspace it would be an idea to call it class G + or Class G++
+
+G-minus?
+
+Just a suggestion. Could A roads be used. Say UAVs fly on the right hand side of A roads only below 400ft and within 100 mtrs of the road. No Class Lima required just Drone Lanes as part of the road system. At least we would know where they are.
+
+Class G+ is where the + would equal an equipage requirement
+
+But [GA Pilot 27] - I agree there is a whole piece of infrastructure that still needs to be achieved
+
+Class Lima is a good starting point. However still concerned that some in the UAS segment do not understand the requirement to provide equitable access to airspace to all users.
+
+the premise just given by Jim Scanlan is far more acceptable than a limiting proposal for class L
+
+Main benefit - this is an essential next step. To move things forwards.
+
+@Jim, please donâ€™t get annoyed at criticism. Iâ€™m here because I know nothing at all about the drone movement. I donâ€™t even know if you (hosts) are commercial, government or what
+
+true drone DAA for non-cooperative targets, drones with EC and stay below 400ft and away from airfields an strips
+
+Jim you are sounding threatening. There are solutions but they involve significant investment on your part.
+
+This is the first opportunity to feel included in the whole debate.
+
+Again, I would urge collaboration with the Goodwood consortium who are actively engaged in trialling many of the concepts described. Very happy to facilitate the introductions.
+
+This workshop is a good step. Adding more operators into the process is imperative. As is adding more airspace users.
+
+There is no mandate for for EC so Lima would need to mandate the carriage of EC devices
+
+Are you a development partner in the avionics company that your drone uses?
+
+How would class lima impact on your airspace activities?
+
+If TDAs are anything to go by then we will see large swathes of Class L so still segregation. I do feel this is an excellent forum to develop ideas further.
+
+We wonâ€™t solve this problem here, it requires significant work ongoing. Ground rules need to be set and an agreed facilitation method must be set.
+
+are you aware of any societal impact studies ?
+
+The Goodwood TDA and TMZ Trial for 2021 was approved by the regulator as the benchmark for integrating. Why can you not work with them? Are they competitors?
+
+Are there any representatives of the drone companies in the forum here ?
+
+From the point of view of trials there is dedicated airspace, both overland and over the sea, already available in West Wales.
+
+Society won't give a damn about inter-operability with GA if told that drones will improve their lives.
+
+The process of developing an environment for drone operations can have many benefits for the GA pilot; cheaper better EC, for example
+
+I canâ€™t comment on how L might affect my ops. How do you see the proliferation of this class of airspace? To what height/altitude?
+
+would be nice to hear them comment on the respect agenda so far?
+
+Drones can bring benefits but the current justifications are not, yet, justified in business terms. The current Technical trials are having other negative impacts on GA and others.
+
+Class Lima is basically a less restrictive piece of airspace to the GA community compared to a TDA or TMZ
+
+Any increase in airspace will add complexity to an already compex airspace; adding pilot workload and possible choke points
+
+James, I disagree. A non-transponder equipped aircraft can transit a TMZ with ATC permission. That couldn't happen in Class L?
+
+This whole thing is reminiscent of the Enclosure Act 1773 which created a law that enabled enclosure of land, at the same time removing the right of commoners' access.
+
+As avoid and detect software improved, class Lima may change to reflect those improvements (ie more integrated airspace), but then that puts a continuous demand on airdrone users to upgrade their devices.
+
+Inventing a new ICAO Airspace Classification will be very difficult
+
+Issues - proliferation of Class L vice TDAs.
+
+Without true integration we are looking at Class G flying becoming pinball aviation as the pilot (and UAVs) bounce from one restriction to another.
+
+Do you see any potential issues to the class lima concept?
+
+Can we raise this point about 'infringement of class Lima' in the conversation... my understanding is that you can't infringe it... it is just an area where drones are allowed to fly providing they are airworthy and broadcasting location on VHF as well as ADSB. Is that correct?
+
+Potential issues? Less than scrupulous operators not having serviceable adsb, not reporting incidents, size should be the absolute minimum necessary (along predefined narrow routes) and not just blanket huge swathes.
+
+Navigability and increased infringement risk, especially in South EAST UK
+
+Alex - that's a very good point but are we basically saying DAA technology (especially for non-cooperative) isn't mature enough for BVLOS ops?
+
+so the idea is to avoid expensive ACPs
+
+Are these white boards going to sent to participants after the meeting?
+
+The CAA can not cope with the current set of rules. Do not expect anything to be done any time soon.
+
+Drone communications just adds to the time with head in cockpit when we should be looking outside!
+
+: [Microlight Pilot 7] [Drone User 7], I disagree. A non-transponder equipped aircraft can transit a TMZ with ATC permission. That couldn't happen in Class L? - I don't think that level of detail has been determined for Class Lima yet. It would need GA input to see how we could make it easy for you
+
+Flying a non-radio aircraft with no electrical system as I do, 'Class L' simply represents another area I would have to avoid. I wouldn't claim this is a widespread problem in GA, but there are still quite a few aircraft like mine and any consideration needs to take them into account
+
+thanks James. I thought they said Class L was effectively a TMZ without ATC provider
+
+ATC either know about everything non-transponding in a TMZ or can see mode-s traffic. We cannot see adsb traffic on our radars (yet?) unless it is over the Atlantic Oceanic routes.
+
+To [GA Pilot 36]  - all I can say is that's not changing - in the commercial world, we are being asked to fly more on instruments and less desire to fly a Visual Approach, we have to pre-brief one in the future before we do it. Its on an A320 but the reliance on technology is a one-way direction.
+
+whoever posted the PWC report link - Tried to open it - can it be included in the report from this evenet as it sounds interesting. Thanks
+
+[Microlight Pilot 7], I think this is a high level view at the moment. It would need discussion and I think that is the point of this forum. We need to work out the detail to make things better for all airspace users. Project Lima is being proposed to find that solution. Simply blocking innovation will just kill the aviation industry in the UK. The UK used to lead in aviation innovation. We need to think intelligently
+
+[Drone User 7]  I agree with your sentiment. I think many are genuinely not trying to block drones but the current approach is very poor and patchy and seeks to exclude existing airspace users. Class L as presented will still exclude many and that's not good thing
+
+[Microlight Pilot 7] Iâ€™m an AI researcher, but not very active in the area of visual processing, radar (and its interpretation), and auto detect and avoid. What I do know is that visual processing is probably not up to the task in a fully reliable manner: you would need to reason about the intentions of the other agents/bodies in the airspace, and for some of those (e.g., birds) thatâ€™s nearly impossible. In addition to that being a factor, the device then needs to plan and manoeuvre to avoid it. Itâ€™s unclear that this can be done in time. Itâ€™s like what Jim was saying: even humans will sometimes struggle to detect a bird and then avoid it. But then the question is: what will people/authorities find acceptable in terms of risk from UAVs, as compared with manned aircraft? There are similar issues for driverless cars vs. Manned cars. We tend to trust human agents more, because they are the ones with the track record! But for UAVs, we need more research on how we can use sample test scenarios in simulation to verify
+
+â€¦the performance of the system.
+
+A healthy UK aviation industry is good for all of us. We need to embrace technology, and find solutions to the problems. This is the best attempt I have seen to engage all sides to find the solution. I think input is welcomes from the GA community to find the solution
+
+Amazon deliveries are lurking in the background. Once the airspace is agreed using NHS and community reasons it will be open season for delivery companies.
+
+Is there a vehicle size limit to the class Lima proposal e.g. must be > 5m wingspan? I can see why GA might me more keen to allow this if the 'drones' need to actually be quite big so as a last resort you can see them (if all electronic conspicuity and planning and ADSB DAA has failed)
+
+The way I think about it is TDA is currently an exclusive approach, TMZ we're all trying to work out how to make that an inclusive approach where we can all share the airspace etc
+
+This is indeed all very welcome open discussion - and I take jim's last point
+
+Goodwood Trial is most definitely not focussed on the rollout of heavy UTM. It is all about enabling integration along very similar lines to the way you describe
+
+This tech needs further development to get to a stage where it can be fully integrated with manned ops. Manned ops will probably have to buy in to EC in the future but if that requirement is driven by UAS then it should be funded by the prospective new airspace users.
+
+EC? It makes me feel â€˜a bitâ€™ safer, but it can lead to more heads down in the cockpit, and is reliant on good faith on all sides.
+
+i think the idea to limit the minimum size of a drone in Class L is a really great idea
+
+If a low-cost, stand-alone 100% reliable UC device that is seen without fail by each and every drone were available, a lot of us would be happy - but we are a long way from that...
+
+I am a big believer in EC and have been equipped with ADS-B out for 5 years. BUT I don't believe in excluding other airspace users, vintage flyers, parascenders, model flyers who all have every right to be there.
+
+I meant EC device, of course
+
+[Microlight Pilot 7] - there is more current activity below 400ft agl than you might imagine
+
+Also drones should be designed for maximum visual conspicuity - high visibility lighting for example
+
+Re widespread use of EC. Voluntary equipage means that EC coverage is growing fast and rebroadcast provides a good air picture and keeps the EC development door wide open. In due course, EC will facilitate integration.
+
+PAW is the only EC device that can detect all EC including Mode S using multilateration. Mode s is the most common EC signal
+
+EC policy is unclear and the systems not interoperable. Responsible pilots have made personal investments but it is up to UAV to invest and not place that responsibilityor cost on other airspace users
+
+Class L MAY be a short term expedient; we should look at it.
+
+The regulations will go through if it is politically satisfactory and the rest of us will have to cope.
+
+Wider challenges? Respect. Honesty from drone operators and the CAA.
+
+this issue needs a national consultation with all airspace users represented via the appropriate bodies.
+
+I agree with [GA Pilot 3] that we all require a common airspace measurement/utilisation metric/display system in order to scale the level of interaction necessary.
+
+working together yes. I see Class L as an interesting model to begin the discussion but I would think is not likely to be the optimum solution.
+
+UK ATC not having and not being allowed to use ADSB is a major block
+
