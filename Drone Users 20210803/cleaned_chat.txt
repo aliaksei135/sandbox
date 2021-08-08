@@ -1,0 +1,198 @@
+[Drone Service Provider 13] This sounds like it is on the development path of a UTM company. Could the UTM company not manage the TDA and allow access to multiple drones as part of their validation path?
+	09:31
+
+[EC Equipment Manufacturer] I don’t honestly see a single VHF position reporting freq is viable - unless aircraft have 2 radios they are unlikely to be on the frequency as working other units.  It’s likely to be beyond the ability of some GA pilots to take in the information as it will task saturate them.  This is already being tried by the military for low flying but few GA pilots use it - for the reasons above.
+	09:31
+
+[Drone R&D - Commercial 1] The collision avoidance DETECTION is strongly biased to electronic conspicuity, is there no room for Vision and Audio based systems, we have a DTrig grant to develop exactly that, Dennis Motion Robotics
+	09:31
+
+[Commercial Drone Operator 30] Position reports are perfectly fine when flying over places such as Africa with lack of communications to listen to with ATC. Around the UK, with GA aircraft sometimes only having 1 radio, they will not give up flight information with a basic / traffic service to listen out to drone position reports.
+	09:32
+
+[Drone Service Provider 5] EC just one part of the CA picture, looks like a lot of reliance on EC for Class L, does not cope with interlopers.  Onboard self-generated CA is needed.  EO sensors.  But I Like the idea of Class L.  My other concern is vertical separation.  You mentioned altitude but flying at set clearance heights are better.  The problem of quadrants is that it pushes drones up into icing and weather, when flying low you avoid this to a larger extend. Separating in the vertical is a poor solution, deconfliction in azimuth is better.
+	09:34
+
+[Drone R&D – Commercial 6] Vision based and audio based detect and avoid is a significantly worse / more difficult engineering solution. Doesn't work in cloud, doesn't work with a fly on the lense etc. EC is a relatively cheap and robust near term solution in my view (Ground Software development Lead at Distributed Avionics - Provider to ULTRA aircraft)
+To avoid 'non compliant aircraft' our current thinking is to use ground based radars to communicate the location of intruders to drones in the area. We are not overly keen on this but it could be a reasonable near term solution. Again vision based detect and avoid is a 'Self driving car' level problem due to noise / false positives etc.
+	09:37
+
+[EC Equipment Manufacturer] The key to having an EC system that can be used reliably for deconfliction is to make it mandatory for all - drones included. Ideally the technology should be uniform - ADS-B is reliably used for this purpose in USA
+	09:38
+
+[German Moreno] EC based detection does not have the uncertainty of vision based/sound based detection, also reliability is 'measurable'.
+	09:38
+
+[Drone Service Provider 5] A blend of all is required EC and EO
+	09:38
+
+[Government Funding Agency] Given that ICAO determine airspace classifications and the current ones are from a long held convention adopted globally, how do you propose to actually introduce a new airspace classification?
+	09:38
+
+[EC Equipment Manufacturer] ADS-B can be mandated to be SIL 1 or above - easily and economically achieved
+	09:38
+
+[Commercial Drone Operator 1] at low operating altitudes, EO is not a robust solution. It does work well for augmenting for example a radar solution. Honeywell is currently going down this route.
+	09:39
+
+[EC Equipment Manufacturer] Points i) to iv) all being trialled at Goodwood
+	09:41
+
+[German Moreno] "Class LIMA" is a randomly assigned name to this initiative. This might not be a new airspace classification, might be a "specific rules mandatory zone". Class LIMA intends to explore the technical and procedural solution to this integration.
+	09:41
+
+[Drone Service Provider 5] EO works just fine at low level in certain ways, filtering out false positives is of course a challenge but we have made great inroads with this recently and it is better than not having it.  You cannot rely on EC or EO in isolation, so a blend is required.  Remember as range decreases the validity of the detection improves and you have to avoid the collision, not avoid the Airprox.
+	09:42
+
+[Drone Service Provider 8] has anyone defined what UTM is?  I don't believe there is a universal agreement.
+	09:46
+
+
+[Drone R&D - Academic 8] Choosing the location for your trial is going to be one of the most important decisions. Eurocontrol has some good work on airspace assessments and I have conducted several in the Global South, particularly as operations manager, safety lead, and airspace/regulations/harmonisation adviser for the African Drone Forum: Lake Victoria Challenge TZ 2018, and Lake Kivu Challenge, RW 2020. Funding came from DfID. I may be missing something, but I can't see the difference between a managed restricted airspace and Class L. I have been an observer on the ICAO RPAS Panel for some time - and several joint task forces, and UAS Advisory Group, and I don't see a change to the present ICAO airspace categorisations. I am also a member of JARUS SRM WG - and don't think the SORA is applicable to limited resource settings and/or remote locations. I am working toward a similar risk assessment methodology for the Global South. We have had 100s or 1000s of BVLOS flights in Africa, most are highly automated.
+	09:47
+
+[Drone R&D - Commercial 6] We are strongly against mandating EO based detection systems. EC works, today... no research needed, just engineering. Not against adding a working EO system in the future which adds safety, but not required in our view for this initiative where the 'zone' is clearly defined and GA pilots will know they are required to have an EC device.
+	09:47
+
+[Drone R&D - Academic 8] air risk and ground risk are necessarily complex
+	09:47
+
+[Commercial Drone Operator 1] we would love to integrate FLARM as well on our drones, but the CAA doesn't recognise it as a certified solution unfortunately and it is not recognised as a risk mitigation feature for UAS. They only recognise Mode-S and ADS-B
+	09:50
+
+[Participant] One of the biggest problems with TDAs is that they are temporary. What company is going to invest in developing a delivery route which is temporary. It's almost impossible to get a return on investment when you only have 6 months
+	09:50
+
+[Drone Service Provider 5] Not suggesting a specific EO is mandated.  I am suggesting a responsible operator will want to fit one for the last ditch CA manoeuvre.
+	09:51
+
+[Drone Service Provider 1] Can ADS-B be scaled up given the potential number of airborne drones in the future (lots of messages!)? Agree it’s a great EC technology, now.
+	09:51
+
+[Drone R&D - Academic 9] I'd suggest the missing bit is the use case outcome, i.e. benefits to NHS.  Asking GA to take pain in terms of airspace or equipment "for drones" is pretty abstract.  Likewise the need to certify the safety of EO solutions inflicts enormous pain on the drone developers so GA is unchanged.  The only way to apportion the pain is to understand the gain - "if GA does X and drone developers do Y, we can turn around 50% more blood tests in 24 hours" or "reduce van emissions by Y%".
+	09:53
+
+[Drone R&D - Academic 6] I agree, ADS-B will be the future, however for spectrum purposes it needs to with low-power on BVLOS UAS. Also the ground based receiver network is important.
+	09:53
+
+[Participant] Relying on a single EC source leaves us with nowhere to move. It needs to be sensor agnostic not only to include current airspace users, but to include future EC devices from drones. ADS-B is already hitting its limitations in some locations
+	09:54
+
+[Commercial Drone Operator 1] this kind of airspace is not designed for those locations where it is already bus
+busy*
+	09:55
+
+[Drone Service Provider 5] We certainly need a blend and an onboard CA EO system will help responsible operators do the last ditch manoeuvres.  And UK Mil aircraft will be playing in the same space and we need an ability to avoid swapping paint.
+	09:56
+
+[Commercial Drone Operator 23] A government mandate and applicable EU/UK standard will be required from a compliance point of view as otherwise there is zero incentive for commercial/retail UAS/Drone manufacturers to get involved. This would just exacerbate the current problems we have with the current EU regulation package where there are currently no devices that comply with the C rating.  EC on homebuilts operated under OSC or TDA is fine but the reality is these standards with need to be written into the appropriate legislation as others have mentioned?
+	09:56
+
+[Drone Industry Body/Association 1] ADSB was one of four EC outputs from their UECWG research and mandating that may not happen so we have to look at addressing these gaps.
+	09:56
+
+[Participant] Not currently, no. As a short term step, yes ADS-B is the solution. But not longer term
+	09:57
+
+[Drone Industry Body/Association 1] …Agree 100%
+
+[Commercial Drone Operator 1] if you look at the land's end transit corridor ACP, it looks like there is a strong preference for a TMZ over an RMZ based on the GA stakeholder engagement that they did
+	10:00
+
+[Commercial Drone Operator 1] Question from our end: why does the airspace have to go up to 2000ft. why can't it just be up to 500ft or 1000ft AGL. takes up a lot less airspace for GA and makes the brick wall in the sky that was mentioned by the community more of a speed bump for them
+	10:04
+
+[Consultant]
+I agree with [Drone R&D - Academic 9] comment above. Linking the change requirements to benefits is critical to get user buy-in and to get the government to get behind the mandate that we seem to agree on.
+	10:05
+
+
+
+[Participant] Having an FPV camera while flying BVLOS, or using an EO based collision avoidance system, whilst not reliable, it would provide a form of mitigation in the case of non-compliance or EC failure
+	10:05
+
+[German Moreno]
+Answer to [Commercial Drone Operator 1] Not all UAV operations are feasible at 500 or 1000 ft AGL. (terrain, RLOS, ground risk...)
+	10:06
+
+
+
+[Drone Industry Body/Association 1] I think that’s an interesting comment, I guess some larger drones are more efficient and cost/benefit for making the business healthcare/logistics case work might mean they have to cruise at higher levels and interact with SID and STARS from known airfields.
+	10:06
+
+[EC Equipment Manufacturer] Spectrum congestion on 1090Mhz can be overcome by putting Drone EC onto UAT (978Mhz) and utilising TIS-B to rebroadcast between the two networks (as in USA)
+	10:08
+
+[Drone R&D - Commercial 6] The key here is 'not mandated'.
+	10:09
+
+[Drone R&D - Commercial 1] Totally agree with Jon, we need an alternative extra mitigation
+	10:10
+
+[Drone R&D - Commercial 6] We will happily fit them when they are cheap enough and good enough... currently this is not a 'solved problem' and cannot be part of this proposal. I agree entirely they might be a useful last ditch safety feature.
+	10:10
+
+[Participant] I'd say that a TDA is more likely to be infringed due to people not expecting it. A TMZ can be permanent so risk is lower from a human factors perspective
+	10:10
+
+[Commercial Drone Operator 20] May have been discussed on the GA chat but worth thinking about the Paraglider and Paramotor community due to often carrying less tech. Perhaps not initially for the proposed Class Lima but as this scales up going forward as many would not carry devices for monitoring airspace unless perhaps flying cross country. I fly Paramotors myself and made the decision to use an ADS-B (especially due to the 50% CAA rebate) as we fly from a local gliding club but note the fact that it is currently not compulsory. I also feel that perhaps it should be. My main thing is, I want to be seen when in the sky and keep safe but would also want to be able to see drones as their use increases especially during those times when my flight height is reduced so a possible air incursion could occur.
+	10:13
+
+[EC Equipment Manufacturer] A key part of BLOS will be Detect and Avoid - the Paramotor is protecting himself by transmitting ADS-B on 1090MHz - the drone with a dual band receiver will detect the Parameter and algorithms can ensure it avoids.  Mandatory EC for drones is a key part of BVLOS
+	10:17
+
+[Drone Industry Body/Association 1] I wonder if that affects the give way to -  rules of the air concepts
+	10:19
+
+[Commercial Drone Operator 23] None of the current EC devices on the market are capable of being incorporated on the current generation of drones in the retail/commercial space. Unless this tech comes built into the drone and it is automatically active we will never achieve the levels of mitigation required to the required safety levels. Happy to be proven wrong there however? Is the tech small enough and low enough powered to be fitted onto let’s say a sub 250g drone without massively negatively affecting range and/or battery life?
+	10:21
+
+[Drone R&D - Commercial 6] We have the ability to 'nudge' in auto which means that if connection was lost whilst avoiding something then it would just snap back to full auto mode as it was before.
+Totally agree manual mode BVLOS is not a sensible idea.
+	10:24
+
+[Drone Service Provider 5] Removes TDAs as the Brick Wall and allows commercial ops to gain traction.
+	10:25
+
+[Drone R&D - Academic 9] I was earwigging over that break - totally agree with Jon that this is about layers.  No-one suggests routinely flying on manual - but you can execute some kind of fall-back, e.g. stick to your plan, or straight back home, or whatever you've decided it least risk under the circumstances.  I think you're allowed to consider yourself unlucky to have a second failure e.g. loss of C2, but at the same time you need to do your bit to make sure it's unlikely.  If you blow a car headlight, you keep driving, but you fix it first thing next morning.
+	10:26
+
+[Drone Service Provider 5] It will allow us to get some commercial contracts in the designated airspace area.
+	10:29
+
+[Commercial Drone Operator 25] I think a lot of the comments are going to change when there are some indications of likely traffic density within LIMA. No one has really commented on the likely traffic density and growth projections.
+The priorities for future research has to be on collision avoidance technology assuming that once LIMA is given the go ahead the traffic densities are going to increase drastically beyond all current projections.
+	10:40
+
+[Drone Industry Body/Association 1] Hence we need multiple operators to participate alongside developing procedures
+Would have been handy to have a N/A option
+	10:42
+
+[Drone Service Provider 5]  
+[Drone Industry Body/Association 1] …..agreed 100% but the operators need to be part of the procedure design.
+	10:44
+
+[Drone R&D - Academic 9] Watch your politics here Jim!  If "class Lima" gets perceived as a back door to airspace class escalation to suit the drone community, there goes your buy-in
+	10:46
+
+[Drone Service Provider 5] How about a dress-rehearsal in a country with more permissive rule sets and when we have operated together there, Bring it back as a mitigated operation.
+	10:46
+
+[Commercial Drone Operator 1] is there not an in between solution where strategic deconfliction is mandatory for UAS operators and not mandatory for GA, but that they can at least see where UAS operations are planned?
+	10:46
+
+[Commercial Drone Operator 32] I ask the UTM question all the time!
+	10:47
+
+[Drone Industry Body/Association 1] The poll results Q6 is very interesting. Also interesting offers to do this avoid, thanks [Drone Service Provider 5] and [Drone R&D - Academic 8] who raise valid suggestions.
+	10:52
+
+[German Moreno] Without data of ALL air traffic it'd be difficult to measure the risk. Mandated EC would be key on building up this map.
+	10:54
+
+[Commercial Drone Operator 32] What is the mitigation (if any) for a failure to GPS?
+	10:54
+
+[Commercial Drone Operator 1] inertial navigation systems can deal with a temporary outage
+	10:55
+

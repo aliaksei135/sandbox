@@ -1,0 +1,653 @@
+00:08:48
+[Facilitator] My name is [Facilitator] and I’m going to be facilitating the discussion today in a moment, we will be hearing from my colleagues who will lead us through a presentation explaining the background and details of this project, but I will just run through a little bit of housekeeping up top to begin with, it would be really helpful for us if everybody could please make sure that the name being displayed on the zoom is accurate to them, so you can do that by hovering over the panel video that shows your screen and when you do that, you will see in the top right corner little blue box, with three dots pops up if you click on that you will then have the option at the bottom of the pop up menu to select rename and then you can type in your name and ideally any organization that you're representing that will just be really useful for us to just contextualize who we're speaking to, especially if nobody's showing videos and things it just makes things a bit more personable for us, so if you hover over your video select the three dots in the top right you'll get renamed as an option.
+00:09:56
+[Facilitator] So, this workshop is coming into parts of a research project and the purpose of today is to record the views for you as participants.
+00:10:04
+[Facilitator] Those who signed up via Eventbrite will have received a sheet information and details of what you're consenting to by participating so to reiterate anyone is free to exit this workshop at any time, the workshop is being recorded for internal use only and all data will be anonymised it may be used as part of the process outputs but it's going to go through an anonymisation process, so you don't need to worry about sharing any details that are going to be shared with the wider public so by remaining in the workshop, from this point you are agreeing to these terms, so if anyone can't consent these terms of being recorded, then it would be best to exit now.
+00:10:39
+[Facilitator] With that being said, I’ll just outline some technical details, we would like to give everyone a chance to be heard so to make that possible within the limitations of zoom we would invite you to please use the chat which is accessible via the icon bar at the bottom of your screen and the speech bubble icon So if you scroll to the bottom of your screen.  You will see a speech bubble icon underneath and you click that it will pop open the chat. If you are on an iPad or tablets or another device, you may need to go to the top of your screen. Where you will then see a similar set of icons and again if you click the three dots, then you will see a drop-down menu, with the option to select.  So, on desktops the bottom of your screen there's the chat icon on other devices, you may need to go to the top of your screen and click the three dots to access the chat.
+00:11:36
+[Facilitator] If you do need to put anything into the chat you also have the option of private messaging me or other participants in the group, if you choose to private message someone directly, I will only be visible to me or the person receiving the message so you're welcome to use that at any time, if you want to point anything out to me you're welcome to do that.
+00:11:55
+[Facilitator] But throughout the workshop if you can use the chat and just use it to answer any responses, you might have as we go through that would be really helpful.
+00:12:10
+[Facilitator] If you have any questions or remarks during the initial presentation, please leave those in the chat and I will address them when we get to the end of the presentation and if anyone experiences any technical difficulties doing this. We will have the opportunity to just hear from you speaking afterwards, so please don't worry if for any reason you can't find the chat or isn't working for you, we will make sure that we come to you.
+00:12:30
+[Facilitator] So, with that being said, there's just a very small…So if you feel the need for any clarification during the presentation, or if you have any questions or comments leave them in the chat or we will come to you afterwards.
+00:12:48
+[Facilitator] And this workshop is following on from one earlier in the year in March, attended by general aviation users to understand the broad range of feedback and concerns from those with an interest in how air space is managed so that session was very productive and if you'd like to read a summary of outcomes, you can download a PDF from the websites that corresponds to this project so I’m now going to drop that into the chat so you can see how the chat works.
+00:13:17
+[Facilitator] I have just posted the link in the chat there should be a little notification that pops up if you click on that you'll see the chat and I have just entered a link where you can go to the project outputs page. Once you're on that page if you scroll right to the bottom, to the grey bar at the bottom there's a link saying click here and that contains a summary of the outcomes of the previous project is not essential download if you want to be kept up to date with the project so far that's all summer is that very succinct fashion by my colleagues here today.
+00:13:47
+[Facilitator] So, this workshop is taking more of a targeted approach by inviting the input of those in the drone industry sector specifically. 
+00:13:59
+[Facilitator] So, we may have the opportunity to go into a bit more detail during the session, in any case, we welcome any comments from your experience, whether they be more technical or subjective.
+00:14:07
+[Facilitator] So, without further ado, I’ll pass you over to my colleagues who will enter into the presentation so over to you, Prof. Tom Cherrett.
+00:14:17
+[Prof. Tom Cherrett] And thank you very much [Facilitator] and good morning everyone thank you again, very much for joining us for this workshop today looking at how we potentially better manage drones in shared air space with other users.
+00:14:26
+[Prof. Tom Cherrett] So, I’m, just advance the slide here a moment, yes, so my name is [Prof. Tom Cherrett] I’m the director of the transportation research group at the University of Southampton.
+00:14:39
+[Prof. Tom Cherrett] And so I’m working with [Prof. Jim Scanlan], and others, on two projects related to this, so you'll all be aware of the increasing debate around drones being used in various commercial settings with lots of claims about potential to bring about speedier and more sustainable logistics, but it was a key question here is how really do we best manage them in shared air space and particularly how if we have you know, a mass introduction of them on a large scale.
+00:15:12
+[Prof. Tom Cherrett] How would they impact on all the other stakeholders who are trying to use that space of particularly general aviation users who we talked to in a in a workshop earlier this year was Facilitator was saying.
+00:15:19
+[Prof. Tom Cherrett] So, we really want your help, today, to try and start unpacking some of these issues and looking at your particular experiences and to think about how we could potentially have an alternative way forward.
+00:15:29
+[Prof. Tom Cherrett] So, in terms of the purpose of the workshop, first of all it's to give you a little bit of background over the next five to 10 minutes on some of the projects we're working on in this particular space, and these are really targeted towards NHS medical logistics, as a first kind of valid case study.
+00:15:45
+[Prof. Tom Cherrett] We want to try and understand your concerns regarding shared air space from your experiences from trying to obviously undertake missions doing various things. And we want to use all that to collectively try and develop new operating procedures that will be acceptable by all users and I think that's the key thing [Prof. Jim Scanlan] will come on to you know some of the interesting issues we've had, the temporary danger area, you're virtually putting a brick wall in the sky and, obviously, these things are difficult to put into place and we want to see if there's other ways of doing that and.
+00:16:19
+[Prof. Tom Cherrett] So just to briefly introduce the team behind all this so they've been instrumental today in setting up the workshop, but also a lot of the background research.
+00:16:28
+[Prof. Tom Cherrett] Professor Janet Dickinson is based in the Faculty of management at Bournemouth university she's a lot of experience in public engagement in relation to new transport systems.  And it's looking particularly as part of the E-Drone project in relation to you know the public's perception of drones and how we win people over to this type of thing.
+00:16:48
+[Prof. Tom Cherrett] Dr Nicolay Jelev is an aircraft designer he's part of the University of Southampton un-crewed aerial systems team. He's got a PhD in aircraft design optimization, but he heads up the ultra large fixed wing drone team for Windracers, which we'll talk a little bit more about that in a moment.  He's also got many hours of flying experience as a glider pilot.  Aliaksei Pilko is one of our PhD researchers in autonomous airspace simulation and he's really looking at kind of ground risk and air risk modelling you know how do we, how do we go about planning sensible routes for drones, particularly in over different types of terrains is also president of the university gliding club.
+00:17:36
+[Prof. Tom Cherrett] We also have a Mr German Moreno, who is a an aircraft systems engineer, and he acts as the regulatory lead for the un-crewed aerial systems team at the University, so he has vast experience in developing drone safety cases with the CAA dealing with temporary danger areas etc so there's a lot of experience in this area.
+00:17:57
+[Prof. Tom Cherrett] And finally, last but not least, Dr Matt Grote who has an engineering doctorate in transportation in the environment so doing a lot of work in relation to the environmental impacts of transport systems, and he was also a commercial airline pilot for over 15 years so that kind of just introduces the team.
+00:18:15
+[Prof. Tom Cherrett] Is a bit about background on yourself so we've had over 60 I think 69 people registered for the event, so you can just see here 40% being commercial drone operators.
+00:18:25
+[Prof. Tom Cherrett] we've got drone service providers as well, a group of people there who are into obviously the academic side in terms of research and development related to drones.
+00:18:34
+[Prof. Tom Cherrett] But also, representative some various regulatory bodies government obviously etc so there's a good spread of of people in the in the workshop today.
+00:18:44
+[Prof. Tom Cherrett] Just some brief background on the projects behind this research so first of all, we have E-Drone, which is funded by the engineering and physical sciences Research Council started in January this year, and goes through to the end of 2023 and involves University of Southampton, Bournemouth University, University College London and Leeds.
+00:19:05
+[Prof. Tom Cherrett] and its really focusing on how we best integrate drones into mixed fleet logistics systems, you know we think about who will be operating drones in the future it'll be you know the DHL or UPS of this world.  But under what circumstances should they be used? You know they're not going to take over from vans they're going to be used in certain situations but optimizing them in relation to the ground transportation systems that they have to link with is very important.
+00:19:29
+[Prof. Tom Cherrett] So, understanding the energy and cost implications of that is a key element that we're working on, but also the public perception side of using drones.
+00:19:39
+[Prof. Tom Cherrett] For a more practical application side, the Future Transport Zone project is a large piece of work, funded by the Department of Transport which started in April of this year, it goes to June 2024 and the drones project part of that is looking at setting up a an air traffic management system, a  UTM for managing drones across a certain region developing drone corridors, but particularly looking at you know sort of the other angles, about the safe transport of goods, particularly medical products in relation to drone transportation.
+00:20:08
+[Prof. Tom Cherrett] And the human factors elements of controlling drones in mixed airspace so both of these projects, though, have the NHS at their core in terms of case studies and that's the kind of thing will be focusing on.
+00:20:18
+[Prof. Tom Cherrett] So I’m just going to say a few is just about the potential for drones to aid NHS logistics, which is the kind of area been working on, and I know, several people in the workshop today have also been doing case studies in this domain.  You will be aware of the work that Zipline have done moving blood around but we've been looking at pathology patient diagnostics is one key areas, so at the moment there are 10 van rounds that service, the just 70 surgeries in the Southampton area lot of background simulation work and using the business as usual data we reckon that could come down to maybe five vans and three drones so you know drones are not going to take over from vans but they could have quite a benefit targeting some of the more remote areas as you've seen this of animation here going down to parts of the New Forest.
+00:21:03
+[Prof. Tom Cherrett] The interesting thing is that on these milk rounds, the vans…the pathology unit at Southampton general hospital doesn't actually receive any samples until after midday.   And we know that targeting certain amount surgeries potentially via drone could vastly speed up the supply of samples and aid the human resource allocation of people in the path labs so that's some of the interesting issues that are you know prevalent there but it's a range of drones for different purposes from trunkings from hub to hub as we have with the Ultra Windracers drone there in the top left.
+00:21:39
+[Prof. Tom Cherrett] To the more point to point VTOL vertical take-off and landing drones obviously SkyPorts have done some excellent work in the Highlands of Scotland, demonstrating this.
+00:21:49
+[Prof. Tom Cherrett] SkyLift also looking at this type of very many other joint providers so there's a different range of drones that will be needed to provide these types of services.
+00:21:58
+[Prof. Tom Cherrett] In terms of areas of the NHS which might be suitable for this while patient diagnostics is an obvious one.
+00:22:08
+[Prof. Tom Cherrett] When you think of you know how many of us on this call, have given a blood sample say in the last few weeks, but there were kind of 56 recognized type of sample 80% of those fall into the categories of blood, urine or stools, but they have to be analysed you know within the day they're collected, they are small light, they are generally carried in ambient temperatures they don't have to be chilled.  And they come under UN 3373 classification, so you know, there is some definite interest here and relevance for drone transportation to move these for more remote areas.
+00:22:42
+[Prof. Tom Cherrett] Another interesting area is potentially blood transportation, but these loads tend to be a lot larger and heavier so on the left hand side of the screen here, you can see photographs of the typical Versapack that's used by the blood transfusion service when they're full and they have to be chilled obviously, they weigh 13 kilograms so it's not light.
+…is just moving these around, but a lot of them have moved unaccompanied that you can see the middle photograph is when we took of a taxi driver just moving them off the Isle of Wight ferry coming over from the mainland, to the Isle of Wight.
+00:23:13
+[Prof. Tom Cherrett] And that's what's in them, so that the kind of small little blood bags there, and so, in terms of emergency blood movements there's definitely some scope for drones to contribute in this area, but I think the one of the most interesting ones really is chemotherapy treatment so cytotoxic meds.
+00:23:26
+[Prof. Tom Cherrett] And so, these medicines are often bespoke made for the patient, they are very short shelf life, some of these medicines have to be administered for the patient within four hours have been manufactured.
+00:23:35
+[Prof. Tom Cherrett] And they have to be chilled, obviously, and you know that they are quite delicate in nature, in terms of vibration as well, but because there's high value and they have to be administered quickly it's a classic commodity that will be appropriate for transportation and in the case of the Isle of Wight some Mary's hospital last it's aseptic medicine unit last year, so there's been a rationalization, a lot of their…most their product is manufactured on the mainland and it has to be driven across so there are obvious cases where the movement of this by drone would be would be more perfect, but again, a lot of these classified as dangerous goods so there's interesting issues here.
+00:24:12
+[Prof. Tom Cherrett] So, we have first-hand experience of trying to manage a drone in shared air space with the Covid air bridge project back in May of last year.
+00:24:21
+[Prof. Tom Cherrett] So we set up a link for the NHS to us if it was really necessary between Lee on Solent and Binstead on the Isle of Wight so and again Prof. Jim Scanlan will come on to this in more detail, but the real you know nitty gritty of tactical a busy airfield communicating with air traffic control, having to have a drone and holding patterns to allow for other aircraft to land and setting up the permissions for beyond visual line of sight flying so all of this was a very steep learning curve and into what you needed to do and really you know the setting up the permissions for this also was part of the background for trying to look at you on alternative ways of doing this.
+00:24:56
+[Prof. Tom Cherrett] movie this will play for you, but this just shows one of Ultra’s first flights, going from Lee on Solent across to Binstead on the Isle of Wight.
+00:25:03
+[Prof. Tom Cherrett] So, Ultra is essentially obviously it's a fixed wing twin engine drone.
+00:25:11
+[Prof. Tom Cherrett] Essentially, designed for carrying a payload of about 100 kilograms 100 kilometres so it's a classic kind of trunking aircraft design just to go backwards and forwards.
+00:25:15
+[Prof. Tom Cherrett] and think of it really as a kind of you know, in estate car boot size, if you want to get some idea of scale.
+00:25:25
+[Prof. Tom Cherrett] And so, you know we really appreciate you some of the difficulties of flying this in earnest and Prof. Jim Scanlan will come on to this in a moment, but. 
+00:25:31
+[Prof. Tom Cherrett] Here we are an approach to Binstead, which is quite a tight access point but it showed that the services can most definitely work, but we learned an awful lot about you know the realities of trying to operate these systems in shared air space and hence the kind of need for the for the workshop today so I’m going to hand over to [Prof. Jim Scanlan] now who will introduce himself.  I just described, you know some of the realities that we faced it, you know the taking these flights [Prof. Jim Scanlan] over to you.
+00:25:53
+[Prof. Jim Scanlan] Thanks very much [Prof. Tom Cherrett] so.
+00:26:03
+[Prof. Jim Scanlan] I guess we're fairly united, people on this call, that TDAs are probably not the right solution long term for operating drones and the workshop, we ran earlier in the year was primarily with GA participants and, to be honest, there was quite a lot of anger amongst the crewed aviation community who see this as you know, stealing their precious airspace it segregates airspace it's inefficient so we've shut down, you know the airspace when we're using it of course it's temporary airspace and that made absolutely clear by the CAA.
+00:26:34
+[Prof. Jim Scanlan] That 90 days and you can't apply again, although I hear that maybe there are exceptions to that, but, but it's not a good construct for long term commercial operations and, of course, it takes a huge amount of effort to put this in place, so next slide.
+00:27:18
+[Prof. Jim Scanlan] Again, in our workshop with crewed aircraft users, there was a perceived lack of stakeholder engagement, maybe we, as the drone Community have been a little bit guilty of this in that we've consulted locally, where, perhaps we should be consulting more widely and perhaps nationally and I fly GA aircraft down to Hopham and Luxton and Lee on Solent and, and I tend to fly you know across the country, and so I don't necessarily check all the TDA applications across the whole country, but I would perhaps like to be aware of brick walls appearing in my favourite destination.
+00:27:57
+[Prof. Jim Scanlan] And, and what we're seeing is a backlash now and the other airspace uses the crewed airspace users are starting to react to TDAs and starting to organize and object to them and there's been recent examples where what would have been a relatively straightforward application is now getting pushed back.
+00:28:34
+[Prof. Jim Scanlan] So next slide.
+00:28:40
+[Prof. Jim Scanlan] So we've been trying to think of solutions for longer term for genuine commercial usage and we all know that a lot of worthwhile and very good work has been put into UTM philosophy, UTM thinking, a lot of international studies on the longer term solutions. But we, the exam question, we want to examine is can we do something very simply light touch a lot sooner and, in my opinion, the low hanging fruit for us drone operators is to start in low risk regions so low population density low space complexity low space traffic regions first.
+00:29:30
+[Prof. Jim Scanlan] and actually there is a fair amount of demand for drone services in those regions because they're generally regions that have poor existing logistics, so a lot of the island communities around the UK and rural poorly can connect it areas so that's where we want to start thinking about how can we put in more longer term commercial solutions, particularly for BVLOS flying.
+00:30:04
+[Prof. Jim Scanlan] And we believe there is a lack of suitable airspace procedures management tools, particularly for Class G airspace, so uncontrolled airspace.
+00:30:16
+[Prof. Jim Scanlan] And I’m sure people on this call will have opinions on this so, when will UTM be fully available and up and running and available, particularly in remote regions well my guess, to be honest, is it may be five years away.
+00:30:27
+[Prof. Jim Scanlan] And, and for me that's probably too long for the commercial operations that are possible now I think a lot of the technology is now in place for drone operators to start flying routine BVLOS flights.
+00:30:46
+[Prof. Jim Scanlan] And I would also suggest that full strength UTM and which is effectively controlled airspace is perhaps not appropriate for low risk regions and Prof. Tom Cherrett will tell you the full logistics operations and operators the profit margins on moving goods around is quite low so there's a lot of concern from potential logistics operators as to the unknown and possibly large cost associated with a full strength UTM system with controlled air space.
+00:31:30
+[Prof. Jim Scanlan] So exam questions, how do we better manage integration of drones into why the shared airspace and we've been looking a lot at including all stakeholders so everyone use the airspace from by the pilots helicopter pilots Helimed, GA pilots and we'll say a bit more about that shortly.
+00:31:45
+[Prof. Jim Scanlan] Next slide please.
+00:32:05
+[Prof. Jim Scanlan] So, we've amongst ourselves said if we started with a blank sheet of paper, particularly for these low ground risk and low air risk regions, what would be the perfect solution we think?
+00:32:14
+[Prof. Jim Scanlan] And so, obviously we want some kind of solution that is non segregated that allows other air space users to use the zone that we want to use.
+00:32:29
+[Prof. Jim Scanlan] We want it to be renewable, we don't want it reliant on UTM and will expand on that shortly what something robust and simple that allows multiple UAV operators to access.
+00:32:40
+[Prof. Jim Scanlan] As the audience will know when someone applies for TDA they're effectively own that airspace and manage that airspace generally that moment, that means a single operator or single organization is using that space.
+00:32:55
+[Prof. Jim Scanlan] And so it's  applicable for low air traffic density areas and again I’ll say a bit more about that and, but the sting in the tail is that it would have to be for compliance UAVs is only so that means UAVs that are able to carry possibly certified EC devices. But the system we want to put in place wanted to be EC system agnostic so embrace all the various flavours of EC systems, including things like FLARM and pilot aware etc, etc.
+00:33:39
+[Prof. Jim Scanlan] And for some reason we're missing the bottom of the slide.
+00:33:54
+[Prof. Jim Scanlan] And I can't remember what that says so let's move on.
+00:33:59
+[Prof. Jim Scanlan] So this is the thing we we’re trying to develop and trying to sanity check and this is where we need your help, so class Lima again remember we're talking about low risk areas so ground risk analysis, so this is not appropriate for controlled airspace, of course, urban operations and complex aspects that might encompass aerodromes, for example.
+00:34:31
+[Prof. Jim Scanlan] So, the zone itself would be in a low risk area and quite a large area, so we envisage trunking routes, for example, so may be hundred kilometres long or more.
+00:34:39
+[Prof. Jim Scanlan] And within that so the operator’s plural would publish their both their flight plans and their live platform status in a portal, and this is very UTM-like. To be honest, the crucial and subtle differences that we're not asking for permission for that flight plan we're publishing it, and so this this is effectively self-managed airspace and the exam question is, can we do that without an ANSP or a fizo covering this aspects and I think that is justifiable based on the safety plans we put in place and the fact that it's  low complexity aspects.
+00:35:30
+[Prof. Jim Scanlan] And we've been doing some trials with onboard automatic collision avoidance, so the drone can have, for instance, EC in so ADSP in and can take conservative automatic collision avoidance and part of the trials, we want to do is trial that and tune it and understand the parameters and capabilities of other T cast like capability. 
+00:35:58
+[Prof. Jim Scanlan] And we would want them all air space users within this zone and effectively, this is a TMZ with a few extras and few subtle differences to broadcast their position through something like a AVSB out or some of the FLARM capabilities.
+00:36:26
+[Prof. Jim Scanlan] And of course the drone operators would have to undertake dynamic flight plan or proxy minimization so the drone operators would have to be monitoring traffic and if they see a potential airprox they would have to take manually input anticipatory collision avoidance.
+00:36:54
+[Prof. Jim Scanlan] One of the ideas that we a time with, and this went down very well with the CAA is the idea that the drones so all drones in this class Lima would automatically provide VHF position reports on maybe something like safety-com or a published may be allocated frequency.
+00:37:11
+[Prof. Jim Scanlan] So “drone X, Y zed at 200 feet on a regional pressure setting of X, Y zed heading of 320 degrees at 200 feet”, so that be automatically broadcast on a frequent basis.
+00:37:22
+[Prof. Jim Scanlan] that's relatively straightforward from a technical point of view, what more complex, is to provide that in a human readable form, and particularly to provide position reports in relation to a VRP, for example.
+00:37:42
+[Prof. Jim Scanlan] And so that's something where we're playing with and toying with we also wouldn't want to saturate the whole area, so we may want to have this broadcast on reduce power levels so you only hear drones that are within I know five maybe 10 kilometres.
+00:38:02
+[Prof. Jim Scanlan] But it's certainly an idea and it's an extra level of safety if all else fails, and if I’m flying a GA aircraft in this area I’ve got a comfort feeling that my eyes are outside the cockpit I’m not looking at screens or something and I can hear nearby drones so that's maybe, something that we pursue as part of this project.
+00:38:28
+[Prof. Jim Scanlan] Now, a thing called UAV multi spherical compliance and so Aliaksei Pilko who was introduced to you earlier, has been doing some very detailed work on ground risk modelling but more importantly air risk modelling and one of the early studies, he did he did some agent based simulation of quite a high density of drones in in a given area.
+00:38:57
+[Prof. Jim Scanlan] And they used to be a thing amongst pilots, called the quadrangle rule, and it was a really nice rule that effectively was good airmanship so that if you're on a particular heading say 0 to 90 degrees you fly to give an attitude and there's layers of altitude and it naturally causes aircraft to fly in a coordinated way and minimize…so the study that Alex did chose, it has a very significant impact on air-prox probabilities.
+00:39:32
+[Prof. Jim Scanlan] And the idea we've got is that because drones are obedient and can follow simple rules like the quadrangle rule and to perhaps even explore the possibility of having finer  resolution so chopping the compass not into four, but maybe 16 or even 32.
+00:39:54
+[Prof. Jim Scanlan] But with it comes the complication of  making sure that all our space users up are using a common altitude reference system that's actually a subtle complexity, so you know do people use a regional pressure setting or QFE or QNH or GPS altitude and making sure we've got a robust definition of altitude and height above ground everyone complies with is part of that work.
+00:40:33
+[Prof. Jim Scanlan] Okay next slide please.
+00:40:52
+[Prof. Jim Scanlan] And so, the idea is that, and this is not particularly new, I know that colleagues have got a really nice plan in place. So I think Skyports are on the call so Skyports of collaborating with Goodwood to put together a similar vision, to be honest, and so the idea is that we, we have shared airspace and one of the things we're working very hard on is to speak with all the other airspace users and to make sure that it's done, particularly in Class two regions and remote regions, in a way that's acceptable to other airspace use it next slide please.
+00:41:25
+[Prof. Jim Scanlan] So, this is some of the work that [Aliaksei Pilko] has been doing and and, of course, if you follow SORA so flying your specific drone putting a safety case together.
+00:41:45
+[Prof. Jim Scanlan] And by the way, I really liked SORA and it is being adopted by the CAA, and I think that will be a step forward I’d be interested to hear views of other people on this call.
+00:41:57
+[Prof. Jim Scanlan] But it asked two questions if you fly your drone what is the ground risk and what is the air risk and the frustration to date in doing this is that's very judgmental it's very subjective, and so the specific work [Aliaksei Pilko] is doing is doing some very detailed mapping and analysis of the whole of the UK and generating numbers and real probabilities.  Both in terms of ground risk and air risk.
+00:42:42
+[Prof. Jim Scanlan] And that will help us decide, for instance, where should we have a class Lima, is where we want to fly too complex, or to higher ground risks or maybe go the long way around and avoid high risk areas and what's the utility of the so called good airmanship rules in terms of you know flight plan patterns and multi spherical rules, etc, etc.
+00:43:00
+[Prof. Jim Scanlan] Next slide please.
+00:43:16
+[Prof. Jim Scanlan] So, we've already had discussions with the CAA they are considering a sandbox proposal we've also had extensive discussions with the air space team.
+00:43:32
+[Prof. Jim Scanlan] And we think fingers crossed so far it's been well received by the CAA, it is quite distinct from UTM I think it could be a stepping stone to use to UTM it's distinct from the work that's being that's taking place at Goodwood.
+00:43:50
+[Prof. Jim Scanlan] And these are the multiple layers are a safety. so number one we would only put Lima areas in suitable low ground risk and air risk areas so and we would exploit the work [Aliaksei Pilko] been doing and it's open source tools he's produced so people want to use them we'd love to hear from you so we use his work to help us map suitable areas and, of course.
+as you're doing your flight plans you can use this mapping data to make sure you actually eat at a strategic level when you're planning your flight you, you understand historical traffic density in historical areas that existing space users are flying.
+00:44:43
+[Prof. Jim Scanlan] tactical I mentioned that already, so they'll still be a responsibility on drone operators to take in tactical action if they think there's an impending airprox and automatic so it'd be great if all the drones within class Lima, are capable of automatically avoiding EC sources, for instance, if there was C2 link failure, the drones could still avoid EC sources so a GA aircraft carrying a AVSB unit or a glider pilot buying a farm unit they’d be broadcasting their position through AVSB out.
+00:45:23
+[Prof. Jim Scanlan] What I haven't talked about is Neuron so we're doing this work with a company called Neuron who have got some really nice ideas around ensuring the data integrity for EC sources within a region and using blockchain technology to make sure it's un-hackable and secure and we can talk about that I don't know whether Neuron are on the call maybe they would like to say more about that.
+00:45:50
+[Prof. Jim Scanlan] I’ve talked about multi spherical role and talked about the VHF possibility next slide.
+00:46:03
+[Prof. Jim Scanlan] And so [Prof. Tom Cherrett] is PI of E-Drone has built in some specific plans to trial this idea and so we're going to be setting up sadly a TDA we haven't decided where yet, but got multiple locations were considering we've flown in a lot of areas in the UK and so we're debating that.
+00:46:35
+[Prof. Jim Scanlan] We would welcome help on this so anyone that wants to come and play please let us know, we want to make sure this is as open as possible, so multiple drone operators to  play with this and play with the technology, the University has a manned test aircraft it's fairly well instrumented with various transponder technology, including a AVSB Mode S, FLARM etc, etc, so we'll be using that as the pretend intruder aircraft fairly extensively.
+00:47:18
+[Prof. Jim Scanlan] And will be trying, you know VHF out EC detection avoidance trials a whole series of use cases and to help convince initially ourselves, but of course the wider community that this is perhaps a good idea.
+00:47:28
+[Prof. Jim Scanlan] Next slide.
+00:47:47
+[Prof. Tom Cherrett] Okay, thanks, very much [Prof. Jim Scanlan] so just to finish this up, this is just a couple of slides.
+00:47:49
+[Prof. Tom Cherrett] Just showing what we did in the last event which Facilitator mentioned, so we held a similar event to this back in March, where we had a cross section of the general aviation community get together soon to discuss obviously how crewed and un-crewed aircraft could best operate together.
+00:47:55
+[Prof. Tom Cherrett] So, so we had over just about 80 participants join us, you can just see the mix on the screen there and some of the individual companies that were involved and some of the kind of key elements that came out in the discussions related first of all inflight deconfliction so a lot of debate about how would general aviation users be able to ensure the deconfliction from drones in shared air space and this whole idea about the need for detect and avoid potentially by some form of electronic conspicuously technology the drones would have to have to avoid collision so that there's a fair bit of debate around.
+00:48:49
+[Prof. Tom Cherrett] Also interesting discussion really around you know drone operation envelopes and conditions so I think a lot of people have experienced in setting up a TDA, as from a user point of view and then not many drones flying in them during the period due to weather or other circumstances so understanding, you know the kind of conditions when drones will not be flying or something else that was discussed in quite depth.
+00:49:10
+[Prof. Tom Cherrett] interoperability of systems is also raised in terms of would we need some form of standardization to ensure interoperability between different electronic conspicuity technology for identifying different platforms.
+00:49:17
+[Prof. Tom Cherrett] and also a GA users were you know very interested in the kind of certifications standards issues related to drone design, so it should be an equivalent level of safety, as we have crewed aviation, but for drones as well.
+00:49:32
+[Prof. Tom Cherrett] Another key issue that was raised was really in relation to cost allocation so in terms of if we are going to you know equip platforms, so that they can be they can be seen by others who should bear the cost of any new aircraft equipment that will be necessary to enable this use of share airspace, so that was a kind of hot topic, but trying to work out what those costs would be.
+00:50:01
+[Prof. Tom Cherrett] was quite difficult and just the final point was you know about equitable access, so you know how do we ensure that ongoing rights to access uncontrolled airspace are managing the way that all users can get their fair share if you'd like so that those are just some of the core areas that that came up, so I think on that note we've obviously got quite a few things in the chat so I’ll hand back to [Facilitator] at this point.
+00:50:23
+[Prof. Tom Cherrett] Just obviously I think take some of those questions.
+00:50:33
+[Facilitator] Yes, thank you and thank you to everybody who has been putting comments in the chat we've got some really detailed responses so I’m going to try and refer to each of these as we go through.
+00:50:37
+[Facilitator] So, right up at the top we've got a comment, saying that this sounds similar to the development path of a UTM company so could UTM company not manage the TDA and allow access of multiple drones as part of the validation path?
+00:50:49
+[Facilitator] it's coming from [Drone Service Provider 13] up near the top of the chat if you wanted to see that question.
+00:51:08
+[Prof. Jim Scanlan] yeah, I’m trying to digest the question.
+00:51:18
+[Prof. Jim Scanlan] look out emphasize that this isn't instead of UTM.
+00:51:23
+[Prof. Jim Scanlan] I really like the thinking and philosophy, but, in particular, one of my favourite documents is the document that the Connected Places Catapult produced on UTM I think it's all very sensible it's great and but….
+00:51:39
+[Prof. Jim Scanlan] Here we are, to my knowledge, there are no commercial BVOLS operations in the UK, or if there are, I certainly don't know about them and I I know quite a lot about you know drone developments in the UK, perhaps someone correct me if there are indeed commercial BVLOS operations and the whole philosophy behind what we want to do is, how can we unlock that and unlock it quickly so it's not this isn't real instead of or an alternative to UTM but it's a low risk start to the UTM tools and techniques, because you know UTM will probably be using EC extensively so it's complimentary I don't know whether that answers the question and I welcome anyone else chipping in to add to that or disagree with that.
+00:52:47
+[Commercial Drone Operator 1] that’s actually exactly what we attempted to do for recent trial in Scotland we worked together with ultra-angel on that and we actually went with their strategic deconfliction platform to operators that were most likely to encounter and area which is Medevac helicopters, so it was Gamma Aviation, we went to Police Scotland we went to the commercial cloud operator who operates from a nearby airport, we went to them and we went with the altitude angel platforms, that you can register as an organization on that we will publish all our scheduled flights on that. All are you can see our planned routes and we actually integrate with Altitude Angel to see a life telemetry feed just one second late to see you actually see us fly there.
+00:53:28
+[Commercial Drone Operator 1] As a way to make it safer and we got down for that idea by all of the Government operators who had no interest in an onboarding platform whatsoever so unless there was a government mandate this is kind of like dead on arrival with the one of the government operators that have no interest in going down this path that's the feedback from my side of that.
+00:53:56
+[Prof. Jim Scanlan] Interesting Thank you.
+00:54:06
+[Facilitator] [EC Equipment Manufacturer] did you have a question.
+00:54:11
+[EC Equipment Manufacturer] yeah I kind of would like to add to that point I mean we're in electronic conspicuity providing company we're doing two or three trials at the moment, based not on UTM but on creating a known traffic environment there are going to be TDAs in order to get it over the line, but our aim is to do away with the TDAs entirely, and I think that it's, the only way to bring the GA community on board you've got to get rid of the TDAs, as everybody has to be able to operate together detect and avoid is all part of that.  The bottom line that I’ve completely agree with Skyports on is the only way to achieve that is to get a government mandate as they do in the United States and we're an American company and we have all the equipment that can do it in states, we can equally bring it over here, and what will make it work is a government mandate for, in my opinion, ADSB, that is, the technology of the future, the CAA is on record as saying that.  There are parties around that want to make it EC system agnostic I don't think you can it needs to be a single technology, and I think that technology is ADSB.
+00:55:13
+[Facilitator] Great Thank you I’m just going to.
+00:55:28
+[Prof. Jim Scanlan] I would just add so we are flying a 200 X on our aircraft great piece of kit and it works as advertised and I’m a great fan of ADSB we have a lot of glider pilots that say that FLARM is superior.
+00:55:33
+[EC Equipment Manufacturer] Okay, so I’m a glider pilot myself and I completely agree that FLARM is what you need as a glider pilot, not for the reasons of  glider to powered aircraft conspicuity, but for gliders to glider conspicuity in as much as FLARM will warn you…in a glide you operate, you know, on the other side of the circle from an aircraft there's literally 100 feet away and you'll find that that's absolutely fine if you're in a powered aeroplane you'd have heart failure but it's fine and that's what you do, but the moment you put the algorithm interaction in FLARM that says actually mate you've just put too much lead here and you're going to hit that glider.
+00:56:25
+[EC Equipment Manufacturer] Then it warns you and that's what you want to know so was that thing buzzes you need to back off a little bit that's what FLARM for it's not for glider to powered aircraft conspicuity, it can do that, and it does that add ritually because it's not very high power.
+00:56:44
+[EC Equipment Manufacturer] But you will never take glider pilots away from FLARM nor should we, because it does what they need to do to stay alive in their own thermals However, we can encompass it we do we have equipment that picks up from an air to air environment or it can be rebroadcast as that, as the other systems to do so FLARM is part of the equation, it will never go away and we have to live with that, and there are ways that we can do that even using ADSB we will rebroadcast the FLARM and that's completely possible.
+00:57:16
+[Facilitator] Right so we've got a point of clarification that might be useful before you proceed so we've had a question asking how this new air space classification would actually be introduced, but, as I understand it, class Lima is not an ICO class of air space Would you mind just unpacking that for us? 
+00:57:29
+[Prof. Jim Scanlan] Again, now I’ll  ask colleagues to chip in that's one of the earliest things that the CAA advisors not to put too fine a point on it, they said it's a stupid name and, to be honest it's an arbitrary name and we will probably change it so I’ll emphasize its not introducing a new class of air space but it did stir up debate and in due course, I mean we've had extensive discussions with the CAA and it's effectively a transponder mandatory zone that's what we're heading towards and so it's not a new class of air space.
+00:58:32
+[Facilitator] Right so we've got we've had a couple of comments about potential issues with a single frequency VHF position reporting.
+00:58:37
+[Facilitator] So, we've had a comment saying this creates the requirement for two radios to ensure that GA pilots are able to access the frequency of reporting the reporting position reporting frequency, this was echoed by a another comment, saying that GA users are unlikely to be using a single radio to keep track of drone positions over basic or traffic reporting so there's a potential issue around a single frequency being used for position reporting via VHF is that an issue that's come up so far during the project?
+00:59:08
+[Prof. Jim Scanlan] So I agree, however, when I’m flying in remote regions, which is where when most likely to start with class Lima even if I’m listening on VHF I’m unlikely to have a basic service because of the low traffic density, so I I but I wait may well be switching to safety COM anyway, because if I’m going to an airfield that perhaps doesn't have ground to air radio, as is often the case, Safetycom is the thing I tune to automatically.
+01:00:02
+[Prof. Jim Scanlan] And if drones were talking to me they’d be doing exactly what I’d want on Safetycom which has given me situational awareness, but I do accept that if you're in air space where you're taking a basic surface that is an issue, but I would argue that perhaps class Lima in the wrong place, then, because if you're taking a basic service then perhaps as you know, air traffic densities is too high. 
+01:00:34
+[Prof. Jim Scanlan] But it's an issue I don't have an easy solution for that, and it might be a stupid idea want to try it.
+01:00:41
+[Facilitator] Sorry please go ahead.
+01:00:52
+[EC Equipment Manufacturer] yeah I mean just put it in context, I spent 30 odd years chasing around the country at 250 feet and 500 miles an hour and that kind of information, and now I do a bit slower but that kind of new information you just can't take it in and you know, with the best will in the world there are pilots out there who cannot take it in, and frankly it's just going to overload them it's also information it's a little bit irrelevant, to be honest and I’ve spoken to [CAA Head of Unmanned Aircraft Systems] about this about the thousands of drone NOTAMS that are out there, I barely look at them, there are so many I can't take in anyway where they are going to be any way on my flight and, certainly, I know that I’m not going to see them anyway so.
+I have to say that I think being told to look out the window to try and find something that's tiny is not really helpful and I think it's just over saturating.  And you know if I have on my single radio, as I am in this airplane then I’m going to be on London or Scottish and tonight it's not a place to have that is not a place to have drone comms, the air force and already trying a single frequency for their low level flights.
+01:01:51
+[EC Equipment Manufacturer] And again, you know I like to find out where my old buddies are but I don't have the time to listen to that frequency, so I don't do it, and you know I can see a Hawk I’m probably not going to see a tiny little drone that's going to be a few hundred feet below me, so I feel that we we’re barking up the wrong tree if we think that information calls on a frequency again to save us, I think we need to come back to electronic conspicuity and have something displayed that we can see.
+01:02:31
+[Prof. Jim Scanlan] Maybe so I take your point.
+01:02:45
+[Prof. Jim Scanlan] And we want to try that it might not suit all air space users, but if I’m if I’ve got my iPad in my airplane and the power goes off I’m in the middle of class Lima I’ve lost my situation awareness it's just a fallback it's a suggestion as to a fallback I personally do you Safetycom a lot.
+01:03:02
+[Prof. Jim Scanlan] And I like it, I, like you know just here, you know I don't necessarily look out to see them, but if there's someone you know five kilometres way I don't need to worry about just yet.
+01:03:13
+[Prof. Jim Scanlan] But let's see let's see.
+01:03:27
+[Regulatory Body 2] Just one point sorry, this is [Regulatory Body 2] just one point just to kind of pick up on [EC Equipment Manufacturer] part you as ex-military actually myself we did have a frequency that was low level for years, three hundred desolate [EC Equipment Manufacturer] probably remembers it.  But none of us used, and you know so it's quite interesting that they've come back to that, but I do agree with you it's worthwhile trialling as is everything else at the moment.
+01:03:44
+[Regulatory Body 2] And I think my real point is your on about putting you know this TMZ in the low complexity low density airspace and I think one of the issues, especially you know where we've been finding is that trying to put it in busy airspace is normally relatively easier because there's more aircraft that are actually do have electronic conspicuity, when you go to the quieter parts of the country where it is low complex low density people, don't buy, you see, because actually the likelihood of bumping into someone else is considerably reduced, so I do think that will be a potential challenge that you'll have when you when you go forward.
+01:04:23
+[Prof. Jim Scanlan] I agree, and that's why we're putting a lot of effort into talking to other air space users to unpick that one and, and I agree.  Actually, in complex air space so our operations that Lee on Solent were absolute eye opener when we were operating last March, the air space was very, very busy, and I don't, if you remember, but the CAA had just allowed GA Pilots to you know load like Homings and Continentals and just you know do a short flight to for the sake of the health of the engine.
+01:04:58
+[Prof. Jim Scanlan] So, Lee on Solent had lots of aircraft in the circuit, we have had Helimed we had military aircraft going ahead overhead we had commercial Britain and Ireland is flying in and out. And it just worked fine because essentially it was controlled airspace and they just treated us like another airplane.
+01:05:20
+[Prof. Jim Scanlan] So, look, I agree. People flying in in low complexity airspace may not be keen on transponders that's an issue, yes, I agree.
+01:05:32
+[Drone Service Provider 8] I am [Drone Service Provider 8] just quick question did you get a view from the GA whether they prefer to TDAs or TMZs because ultimately we're providing restriction of them flying where they want to when they want to and stuff like that and I think we all know, GA sometimes get a little bit frustrated even having to put a radio on board their aircraft let alone any other additional equipment, because it all comes down to a cost and it's restricting their freedom of access to air space, I’d be really interested in whether there have been any discussions around whether they prefer a TMZ over and above a TDA because they're both actually have their negatives on GA operations.
+01:06:23
+[Prof. Jim Scanlan] it's a very interesting question and, yes, we did raise that directly and on the previous workshop we had all you know the great and good of GA  on the call and a TDA is it's like a No Entry sign so irrespective of the equipment fit on your aircraft you can't enter. Unless there's some kind of crossing service. So the preference was for TMZs but, of course There will be the odd pilot and, in fact, the editor of one of the magazine said I fly a cub that doesn't have an electrical systems in it, so I can't comply So yes, there are issues and, but I think on balance, the majority would prefer a TMZ, which they can enter with certain conditions, to a brick wall which is a TDA.
+01:07:16
+[Facilitator] [EC Equipment Manufacturer] please go ahead.
+01:07:27
+[EC Equipment Manufacturer] yeah I might seek advice on this from the CAA on this, but there is work ongoing that I’m aware of that will change the definition of a TMZ and from what axiomatically sounds like you have to have a full up 1030 1090 transponder at a cost of a couple of thousand pounds, that is what will get the GA Community aggravated but it's been looked at, I do believe that the ACP proposal can nominate what will be the minimum form of compliance for to zed and that could be something as simple as a CAP 1391 device which can be procured for 500 pounds and less with a rebate and it's those kind of rebates that will make the difference to get the GA community to spend a small amount of money that makes them conspicuous which is in fact technically good enough to achieve the aims of the TMZ now I don't know that's going any further, but I would propose that it should that the ACP propose it demonstrates and proposes, what is the minimum form of compliance for a TMZ, and it doesn't have to be a full 1090 transponder.
+01:08:30
+[Prof. Jim Scanlan] agreed agreed.
+01:08:44
+[Regulatory Body 2] yeah just to kind of pick up a [EC Equipment Manufacturer] point, it is a policy that we're looking at the issue with the previous one, was actually was based around the Charlie information and how that's how that's provided a lot of the kind of the other devices, you know it's a GPS height and stuff like that so it's it's changing the policy to enable that and actually just to pick up the point on the ACP, I think that already exists, the Farnborough air space change allows for alternative electronic conspicuity to be used as its as it's proven at the moment, it is just still you know mode Three Alpha and Three Alpha Charlie and Sierra, but it does allow for others going forward as Farnborough enables it or it's enabled state-wide.
+01:09:24
+[Facilitator] Okay, so I’m just going to point out that we're reaching about the halfway mark so we'll take a short break before very long before you returned to do some group exercises just to record the quite the responses of everybody who's on the call and before we do that, however, we just cover a few of the questions that can come up in the chat and then we'll still have some chance to further as discussion when we return from the break.
+01:09:49
+[Facilitator] So, I’ll just move on to one of the potential issues that have been pointed out, around the topic of electronic conspicuity.
+01:09:58
+[Facilitator] Which is how do we cope with the issue of noncompliance interlopers when relying on a preference for electronic conspicuously without being able to ensure that everybody is complying with EC, how can we account for those potential issues?
+01:10:05
+[Prof. Jim Scanlan] Well, and it's on a par with a GA pilot flying you know unauthorized you're flying into controlled airspace it's the same issue.
+01:10:38
+[Prof. Jim Scanlan] And it happens we'll have to accept that it will happen occasionally.
+01:10:40
+[Regulatory Body 2] yeah, we actually have a process it's called CAP 1404 for dealing with that that kind of infringement.
+01:10:49
+[Facilitator] Okay we've got a few comments, which are also centering on I think a common point which has been made around, how do we ensure the compliance with an electronic conspicuity so without a mandate from the EU or UK level, people are saying they can't see how there will be wide enough compliance adoption of electronic conspicuity to make that a viable route forwards.
+01:11:08
+[Facilitator] So, is there anything to mention on that point of how we ensure compliance to electronic conspicuity it to make this a viable option?
+01:11:22
+[Prof. Jim Scanlan] Well. I just make a point you know I’m a member of flying clubs Thruxton and Popham, and so I mix with a lot of GA pilots, the vast majority, except that transponders are a good idea they're prepared to fit them and it just means you're flying more safely. 
+01:11:33
+[Prof. Jim Scanlan] And I think the writings on the wall, I think I think actually we're going to have to force air space users generally to fit EC.
+01:11:51
+[Prof. Jim Scanlan] simple as that.
+01:12:03
+[Prof. Jim Scanlan] Unless anyone like to…
+01:12:08
+[Drone Service Provider 5] Could I add a point it's not quite good enough to hang on to cap 1404 just as a rule doesn't mean people don't break it whether inadvertently or intentionally, responsible operators will have to have some form of collision avoidance, I mean we have to have a method at the moment for TDA interlopers and that's the reason that you know some of the TDA processes and procedures are difficult to get approved. 
+01:12:37
+[Drone Service Provider 5] So, interlopers will be there the that fact that there's a CAP to say that they shouldn't be isn't going to be a good enough mitigator or if we do swap paint with an interloper.
+01:12:43
+[Drone Service Provider 5] So whilst EC  is a great idea and, of course, will be mandated perhaps unmandated electro optical systems that responsible operators can then fit we don't have to avoid an airprox with an interloper, we have to avoid a collision.
+01:13:03
+[Drone Service Provider 5] And so, a final last-ditch collision avoidance manoeuvre through an electro optical sensor is perhaps what responsible operators should fit.
+01:13:09
+[Drone Service Provider 5] And remember, yes electro optical sensors are, they have a lot of problems with false positives and but those false positives drop off a cliff when you get to you know, a large growth of large pixel growth in a camera and then you've got the last ditch manoeuvre to do the avoidance so whilst I hear that there's a CAP 1404 if we don't have to avoid interlopers, then why do we have to worry about it in TDAs.
+01:13:49
+[Prof. Jim Scanlan] I will respond to that, if I may, 
+01:13:51
+[Facilitator] You reconnect or.
+01:13:55
+[Prof. Jim Scanlan] Sorry, I didn't hear what you said.
+01:14:00
+[Prof. Jim Scanlan] Facilitator go.
+01:14:06
+[Prof. Tom Cherrett] go for it
+01:14:07
+[Prof. Jim Scanlan] So we operated in a very TDA off the Scilly Isles and if a GA pilot not carrying any transponders assuming and there was patchy primary radar coverage for this TDA if they flew into the TDA without EC we wouldn't have even known about it.
+01:14:34
+[Drone Service Provider 5] Exactly, and so they would need to be some form of electrical optical last-ditch collision avoidance.
+01:14:38
+[Prof. Jim Scanlan] No, no you're missing my point, so we've already had a TDA you're saying we have to prevent interlopers into TDAs
+01:14:54
+[[Drone Service Provider 5]] So I’m not suggesting that at all interlopers will perhaps always flying to them, we have to avoid them when they are in, we will always have interlopers will always have the human element and so to say that EC is the only solution might not be capturing all of the all of the risks, so I wouldn't say that an electro optical system should be mandated but responsible operators should perhaps consider the fitment of an electro optical last ditch  collision avoidance system that picks up those insights because you can be sure that even with a CAP 1404 then the general public perception if there was to be a swapping of paint between a drone and an interloper it will be the drones fall in the public side at this stage of the industry.
+01:15:45
+[Facilitator] I think we've got a comment from [Government Funding Agency] if you feed him.
+01:15:48
+[Government Funding Agency] yeah so presumably where you are talking about the CAP that exists to do with noncompliance in controlled airspace there you've actually got somebody who is they're controlling their space and we'll see if something is happening that they need to respond to.
+01:15:55
+[Government Funding Agency] I guess the difficulty with you know we say what you're saying Jim is the main with TDAs, as you can have an interloper not know they're there. The thing with a TDA, as you start getting into statistics numbers, presumably because the thing with the TDA is but it's temporary if we're trying to open up TMZs the amount of exposure we suddenly then have to interlopers is presumably greater than a time limited TDA would be so if we're saying will permanently you know you can you can come into this this TMZ if you've got the right equipment on.
+01:16:33
+[Government Funding Agency] It then you're setting up something and in terms of actual numbers and risk your risk starts to increase presumably so is that you know, whilst we already potentially have a condition that could be unsafe and less as [Drone Service Provider 5] says you start putting other equipment on to take avoiding action.  Then what we don't want to do is enable an increase in unsafe conditions, which surely go from the TDA to TMZ.
+01:16:58
+[Government Funding Agency] Are we just talking about rates and times and statistical difference in risk, so we have to be more cognizant of it being a risk than in a TDA maybe I don't have [Regulatory Body 2] comment on something that.
+01:17:08
+[Regulatory Body 2] I’m yeah I’m not I’m not sure that it does increase the risk, I mean, on average, we get about 200 airspace Infringers a year and it's not all controlled airspace, it can be dangerous without additional surveillance and stuff like that it's seen by other pilots reporting its seen by people on the ground reporting it so. But yeah, I agree with john's point about you know CAP 1404 is dealing with those Infringers and you know I suppose the flip side to if you make lots of these areas TMZs and it became more of a you know it's known as a TMZ and more people are using it as a TMZ and they're potentially operating in accordance with that.  It becomes you know the theory is that it could actually reduce those because people are becoming habitualised to the fact that the air space is that way now.
+01:18:17
+[Regulatory Body 2] But to pick up on [Drone Service Provider 5] point yeah I mean he keeps going on about the EO side of things, obviously the idea for a lot of the uncrewed stuff is to have a detect and avoid system.  Electronic conspicuity is probably the biggest part of enabling that that detect that avoid.  But to get closer to the see and avoid, which is what we what we rely on from the crude aircraft flying in class G. Then, yes you've got the mark one eyeball but you've also got to remember that and it's been proven that the mark one eyeball is only good 39 to 51% of the time, and if you can look at the UK Airprox Board’s annual summary you'll see that the amount of near misses that happened the mark one eyeball didn't work for the majority of the time and similar as EC doesn't always work, because the individual hasn't used it correctly, but we are actually seeing greater improvements by the use of EC.
+01:19:12
+[Regulatory Body 2] So yeah, I haven't actually kind of answered [Government Funding Agency] question, but I think I’ve just added the extra bits that kind of sit around the outside of it so yes, we need to kind of enable it detect and avoid and we need to look at the risk of those that potentially are not equipped or equipment failure, which is, which is something that also occurs and it occurs in all air space, you know a lot of controlled airspace, especially commercial relies on T cass.
+01:19:38
+[Regulatory Body 2] You know, but if you lose your electronic computer your Mode S, T cass is only going to work with one aircraft, so you know it's that layered approach, so if you lose one thing what's the other aircraft going to do in that situation, and does he have enough layers that if you if there is another aircraft in there that's not squawking is not using X y&z does the other aircraft on its own, have enough layers to minimize the potential of a mid-air collision.
+01:19:59
+[Drone Service Provider 5] In [Regulatory Body 2] is [Drone Service Provider 5] again I think we're all on the same side, I think we all agree.
+01:20:17
+[Drone Service Provider 5] That you know we there has been a bit of an overly simplistic view of electronic conspicuity being the panacea, and it certainly isn't yet it might be later, and also as those low level operators amongst us know.
+01:20:30
+[Drone Service Provider 5] And yes, whilst the aircraft can be giving its position, some of the military aircraft won't be doing that and we are going to be playing in the same area and same airspace with  high crossing rates and collision angles, so I think that, yes, the EC is to avoid an air prox but the electro optical or whatever method is required is needed to avoid the collision and we only have to avoid the collision by a short distance to have done the job, so I don't think we need to worry about electro optical making us give separation distances it's just you know one inch should be enough to avoid swapping paint.
+01:21:06
+[Prof. Jim Scanlan] So can I can I respond to that, I must admit we've done a lot of work on electro optical systems, and in fact radar systems and we've got collaboration with Birmingham university using a small size weight and power device and EO and we've talked extensively with perhaps the world leaders so iris automation and states and is patchy in its capability, so it wasn't the certain weather conditions it won't work in.
+01:21:29
+[Prof. Jim Scanlan] It perhaps won't work at night, which is when we probably would like to run commercial operations, because there would be even fewer aircraft in an area, particularly GA aircraft. 
+01:22:01
+[Prof. Jim Scanlan] And it also becomes a single point of failure So what do you do if it's not working, does that mean you stop your operations.
+01:22:06
+[Prof. Jim Scanlan] I I haven't seen an EO that would meet my specification yet is aware, one I’d be delighted to hear more.
+01:22:17
+[Drone Service Provider 5] But it doesn't have to it just has to be an extra layer you know.
+01:22:26
+[Drone Service Provider 5] There is no one solution that's going to be 100% as we're talking about we layer up the defences we put those pieces of Swiss cheese, the more we've got the less chance of an accident, getting through, and so you know, there are.
+01:22:31
+[Prof. Jim Scanlan] I agree but we're gonna have to write down if if we want to go ahead with this sort TMZ that idea we're gonna have to write down some compliance.  Criteria for drones operates in that area and it has to be binary you either have to, or you don't we can't say well let's make it nice option, so I think we've got to be clear on on what we tell people and we can't make it an optional extra.
+01:23:12
+[Facilitator] Due to time we'll have the opportunity to return to the discussion in a moment, but I think it's worthwhile taking a short break before you return to carry on so I’ll just ask people to please return for 20 posts.
+01:23:14
+[Facilitator] and feel free to turn off your video, in the meantime.
+01:23:29
+[Facilitator] But at 20 past, we will return and then we'll just go through a set of general questions which will allow everybody to add their responses, there are some very interesting points remaining in the chat we may have the opportunity to cover them still but for now be really useful if we just take a short break return at 20 past and then we will go into a brief set of questions to get more general responses from the group, so thank you to everybody, so far, really appreciate all of your input so far and I’m really rich discussion with lots of detail.   So, see you again at 20 past and we will resume for discussion and Q.
+01:24:05
+[Drone R&D - Commercial 6] and
+01:24:14
+[Drone R&D - Commercial 6] I’m up there, continuing this discussion about EO in the break if.
+01:24:15
+[Drone R&D - Commercial 6] The gentleman who was talking about, it is still there.
+01:24:21
+[Facilitator] yeah, I’m starting [Drone Service Provider 5] did you want to I’m not sure if it's still yep.
+01:24:24
+[Drone R&D - Commercial 6] yeah yeah.
+01:24:28
+[Drone R&D - Commercial 6] So, yes, I’m the ground software engineer at distributed avionics we are building auto pilot certainly I’m very keen to solve this problem.  So my feelings on EO or any other noisy sensor be that radar I are anything else that principally these sensors cannot be  check-summed, and so what I mean by that is like the ABSB if you get the message you absolutely know for certain it's come from a another aircraft, whether their sensors are accurate, whether their GPS was accurate when they gave you an accurate reading is again questionable, but at least you know that you got a positive.
+01:25:07
+[Drone R&D - Commercial 6] And what concerns me or really worries me is that we would get significant false positives out of EO or IR sensors and what that would do to like the control system of the aircraft if say we hit the fly during take-off on the EO camera and that fly just happened to look quite a lot like a large aircraft, so I don't know that you can put me at ease with yeah.
+01:25:24
+[Drone Service Provider 5] And remember the EO system displays a picture in picture and onto a screen you're right there's a fly, so I can't rely on EO Now this is, you know, one of those days, where we've had to fly or a bee or something or we're in rain so EO is not gonna work for me in this situation, everybody is mandated for EC but not EO so I don't have that collision avoidance layer but what I still have is the camera.
+01:26:09
+[Drone Service Provider 5] And the camera I can now leave as picture and picture and the beauty of the cameras now when it's working in an automatic mode it's a full spherical 360 sensor. But when you are operating in a degraded mode you then just want the FPV and looking out the front now it's not going to help us at 70 knots with something overtaking us but we've had we've just given up that that layer because environmentally it's not been sound and so we've got probably a 30% solution with do but it's 30% we didn't have for interlopers that weren’t cooperative.
+01:26:47
+[Drone R&D - Commercial 6] I think I think we're actually on the same page.
+01:26:50
+[Drone Service Provider 5] Oh yeah absolutely.
+01:26:52
+[Drone R&D - Commercial 6] My key thing here is that you said it's an extra layer and it's not mandated.
+01:26:54
+[Drone R&D - Commercial 6] We have to start flying without this requirement for an EO sensor or any sensor that can…
+01:26:59
+[Drone Service Provider 5] I have never suggested it's mandated, I’ve said responsible operators should fit EO and we will fit EO to our operation, if you look back in what I’ve said at no point, am I ever suggested that they should have a mandated system it's a responsible operators responsibility.
+01:27:13
+[Drone R&D - Commercial 6] yeah may well not been you it's been a consistent theme throughout my time in the drone industry that there was going to be this see and avoid that had to be mandated and wasn't electronic.
+
+[Drone Service Provider 5] No, I know I would share I would share your horror at that. I just want an extra layer that provides me with a legal responsibility to do my best yeah.  And we're mitigating risk, and this is one that could be mitigated with a sensor that's not that expensive so yeah.
+01:27:47
+[Drone R&D - Commercial 6] And we're very keen to the ladder for FPV camera and if there's a human operator back at base, and you know something's gone wrong then they can also look at it things like that.
+01:27:54
+[Drone Service Provider 5] But thanks yeah.
+01:28:04
+[Drone R&D - Commercial 6] Thanks for.
+01:28:05
+[Drone Service Provider 5] we're all on the same side and people just read the context, particularly accurately and then. So that's just how it is, but if you look back, I said I totally agree with what you just said [Drone R&D - Commercial 6] and the same with the different [Drone Service Provider 1].
+01:28:13
+Okay.
+01:28:20
+[Commercial Drone Operator 1] So Skyports also integrated EO camera last summer, and we were kind of disappointed with the overall performance and even like from an FPV point of view we've wouldn't trust it to operate like that.
+01:28:40
+[Commercial Drone Operator 1] I personally am terrified of the idea that drones would actually be flown manually and that FPV be camera would be used for deconfliction.
+01:28:44
+[Commercial Drone Operator 1] Especially when you're going with more and more drones in a day if you're going like your manual mode, what would happen if you, for example, with your see tooling at that point and you're in full manual mode that that's for me that's an unacceptable risk, so I would never go out of automated mode, so therefore we never use the FPV camera for that.
+01:29:18
+[Facilitator] Again, I’m going to have to interrupt again I’m afraid but thank you for continuing the discussion is really interesting.
+01:29:20
+[Facilitator] So, I am now going to drop a link into the chat so everybody could keep an eye on the chat.  I've just entered in a link and if you click on that it will take you to an interactive whiteboard that will allow you to enter in your responses I’ll explain a bit more in just a moment.
+01:29:46
+[Facilitator] So, you should now be seeing a whiteboard which you will be able to enter your responses on to this is a fairly simple tool. But, as ever, there will inevitably be some technical issues, so if for any reason you can't use this whiteboard which should be now displaying on the screen share please feel free to simply enter your responses into the chat and we will copy them across on your behalf.
+01:30:15
+[Facilitator] So if for any reason you can't use this tool that I’m sharing please just type in the chat as you've been doing with the questions so far, and then we will copy them across for you that's no issue.
+01:30:23
+[Facilitator] So, on the screen here if you scroll to the left, you'll see a set of icons and then this one here the sticky notes.  Which is the fourth one down just below the T icon if you click that you can select the colour and then type in responses there.
+01:30:48
+[Facilitator] So that's all you'll need to to enter your response and then you can resize and, as you wish, so just to kick off we'd like to begin by asking zoom out from the quite technical discussion we've been having.
+01:31:12
+[Facilitator] Would you like to first of all ask what are the positive features of class Lima, for your use of airspace? So once again, please feel free to type response on the chat or any directly on the whiteboard.
+01:31:16
+[[Facilitator] All that you'll need to do is go to the left, we suffer icons click the sticky notes icon and then you can click on the board and type in your response so to begin with] What are the positive features, you can see, for Class Lima, for your use of air space?
+01:31:30
+[Facilitator] So, we'll take a couple of minutes in that, and then we'll continue through these questions.
+01:31:50
+[Facilitator] So, take just a minute longer to allow people to type the responses on here.
+01:33:00
+[Facilitator] And please feel free to keep writing as I talk.
+01:33:05
+[Facilitator] And, once again, if anyone would like to share the responses in the chat if that's easier, please feel free to do so and we will copy across your responses to make sure that they're recorded.
+01:33:22
+[Facilitator] Okay, I’ll allow people to finish writing up the responses on that current question the positive features of Class Lima.
+01:34:15
+[Facilitator] And I will just ask you I’m going to scroll down the screen share now.
+01:34:23
+[Facilitator] To the next question which is directly below.
+01:34:28
+[[Facilitator] So this is continuing on your initial views of the Class Lima concept next question is simply asking] How might class Lima impact on your airspace activities? So, once you've finished off the first question, you can just scroll down and enter in your responses.
+01:34:33
+[[Facilitator] to let us know] How might class Lima impact on your airspace activities?
+01:34:52
+[Facilitator] Just to make it clear, all of the responses which have been gathered on these whiteboards will be anonymous contributions they're very useful way for us to record the general responses for the reporting and outcomes for the project.
+01:35:17
+[Facilitator] So, anything you enter here will be an anonymous contribution, and it will go towards the general feedback that we record in the outcomes of the project so anything you want here is really helpful.
+01:35:32
+[Government Funding Agency] I just ask a general question because it seems like you've got several different questions you're trying to go through, and just want to try and clarify the difference between second and third one, is obviously the first question is all about positives.
+01:35:47
+[Government Funding Agency] Second question could be interpreted as are we talking about the negatives, but it looks like the third questions about negatives what you really looking for in the second question?
+01:35:58
+[Facilitator] I think, on the second question we're really seeking to understand how it's going to change people's experiences, what will be the felt impacts of the Class Lima concepts in more general terms, and then the third one is more focused on potential roadblocks issues that might be incurred by the Cross Lima concept but it's sort of broad strokes, to make sure that we get a sufficient picture of all of the potential responses, so you don't need to be too precise in negatives versus general responses on this one.
+01:36:31
+[Facilitator] There's a good range of responses appearing here.
+01:37:03
+[Facilitator] And if at any point you find that you have a response to enter into one of the earlier questions, then please feel free to go up and enter in so so far we've asked your initial views on the classroom or concept asking what are the positive features of Cass Lina for your use of space might need any current any current limitations or inconveniences perhaps.
+01:37:30
+[Facilitator] Then asking how might Cass Lima impact on your current air space activities?
+01:37:36
+[Facilitator] How will it affect your experience as an air space user as an operator.
+01:37:43
+[Facilitator] And we're now going down to the next question which is focusing on any potential issues so I’ll just scroll down the screen share if you can see.
+01:37:49
+[Facilitator] we've recorded some suggestions, but potential issues around the issues of drone corridors, altitude limits and reporting, priority in terms of flight path planning reporting of near misses perhaps and there are a number of issues that have already been noted in the chat, of course, that we've been covering the discussion.
+01:38:08
+[[Facilitator] So it would be really useful here if you can take a critique of the Class Lima concept and just record any potential issues, based on what you've been hearing about Class Lima, so far, so on the third board] Do you see any potential issues?
+01:38:19
+[Facilitator] Please go ahead and record anything that is worth knowing under this question potential issues of Class Lima.
+01:38:37
+[Facilitator] And just to ensure, as there are a couple of people that have just been admitted or readmitted into the meeting I have copied in the link to the board that we're currently using again if you click that to be taken to the interactive whiteboard and you can enter in your responses by clicking on the sticky notes icon which is available on the left hand of your screen where I’m hovering over with my mouse now.
+01:39:38
+[Facilitator] Continuing down.
+01:40:16
+[Facilitator] You can see the next question here, what are your views on the widespread use of electronic conspicuity? Again, we've covered some of this already.
+01:40:20
+[Facilitator] But if you've got any further comments to add really helpful to record them on this board here.
+01:40:30
+[Facilitator] and introducing a question or pointing to the next one down as well.
+01:40:38
+[Facilitator] What benefits would you expect to see within an electronic conspicuity environment? so those two questions there what's your views on widespread use of electronic conspicuity?
+01:40:43
+[Facilitator] And what benefits would you expect to see within an electronic conspicuity environment?
+01:40:56
+[Facilitator] We nearly through the questions on these boards, so if you can just take a moment to add any responses will then go on to some quick polls just gauge the consensus amongst the group around some key issues and we may have the opportunity for a little bit further discussion of responses.
+01:41:04
+[Facilitator] So, thank you to everybody who is entering the responses on the boards I can see the people have already been going through and answering the further questions and so we'll just spend a slightly longer and it's a couple more minutes and then we'll move on to some polls and so we've got these remaining questions here.
+01:42:28
+[Facilitator] This is covering suggestions for the approach for the drone industry.
+01:42:44
+[Facilitator] How should the drone industry, ensure that the wider aviation community buys into the concept of sharing on segregated airspace with drones? I'm sure that some people have some detailed experience with the sort of question so anything that you have to comment here will be really helpful.
+01:43:03
+[Facilitator] And the question below that.
+01:43:10
+[Facilitator] Are there any wider challenges to shared air space worth mentioning? so we've got a question there, How should the drone industry, ensure that the wider aviation community buys into the concept of sharing on segregated as opposed to drones?
+01:43:13
+[Facilitator] and other any wider challenges to shared air space worth mentioning?
+01:43:30
+[Facilitator] Fantastic so thank you once again to everybody who is entering their responses in the Boards there's a real range of responses appearing, and that is exactly what we're after so we've gone through six questions so all five, I believe, so this last question here.
+01:44:44
+[[Facilitator] Is a broad question asking] What are the priorities for future research on un-crewed aerial vehicles in shared air space?
+01:45:11
+[Facilitator] So, any general comments here what should the priorities be for future research on UAVs in shared air space? We will just continue until 20 to and move on from these boards, so any final comments, please add it into that last question or anywhere else, on the other, boards and then we'll wrap up on the boards and just do some brief polls.
+01:45:32
+[Facilitator] Okay, so we are at 20 to now so just wrap up on the boards just to say if anybody still writing please feel free to finish off.
+01:47:00
+[Facilitator] And if you want to add anything more than these boards at any points you can access them via the link that's in the chat, I can post it again if anyone needs it.
+01:47:11
+[Facilitator] But that will remain open to you to add any comments I’m going to stop screen share now so you need to open that in your own browser window.
+01:47:21
+[Facilitator] Thank you to everybody for everything you've contributed on the boards that's really helpful, so we now have a set of questions that are prepared in a poll for you, and so we will enter into that in just a moment this is simply a set of questions which are to gauge the general attitude amongst the group so that will pop up within your zoom window you'll have the opportunity to select your responses and then we will see what everybody's thinking so you should see a window that's just popped up in zoom ‘drone user poll’.
+01:48:06
+[Facilitator] it's worth noting that not everybody participating may be able to answer all these questions and maybe that you need to be a drone operator yourself to be able to answer these questions but anything you do if you're able to answer please go ahead and provide us with your response, and you can leave anything blank that you don't feel is relevant to you.
+01:48:24
+[Facilitator] Please when you see the poll pop up enter in your responses, we will see them come through.
+01:48:45
+[Prof. Jim Scanlan] But Facilitator do you mind if I just deal with one or two of the queries while we're filling that in.
+01:49:05
+[Facilitator] Is that's good.
+01:49:13
+[Prof. Jim Scanlan] And there's some really great questions about what happens when the traffic density go that you know let's just imagine Class Lima does succeed, and we do manage to convince the CAA what happens when traffic density goes up well I think they would have to be an upper threshold, where we need more sophisticated solutions.
+01:49:28
+[Prof. Jim Scanlan] And, and we may stray into UTM if the density of traffic gets beyond X, we have to collectively decide what X is.
+01:49:38
+[Prof. Jim Scanlan] But it's a great question unfortunate I don't know the answer to it.
+01:49:50
+[Prof. Tom Cherrett] Just on that mean just some background work on what we're doing on the on the actual current logistics, you can just take something like patient diagnostics You know from say know five or six of the surgeries in the kind of New Forest area that could you know potentially be viable for moving. 
+01:50:03
+[Prof. Tom Cherrett] Some product, you know you're looking at maybe from some of the largest surgeries for five or six load flights one way flights a day just you know in each one moving a Versapak, a small Versapak a pack of about four kilograms so.
+01:50:20
+[Prof. Tom Cherrett] You know there's an awful lot of potential movements there if you were to expand that across to other places, so it's that that's the big thing we're now trying to quantify what would be the most you know the most valid use of drones but you're looking at multiple flights, with different places.
+01:50:33
+[Drone Service Provider 8] You can I just ask a question around that Lima Airspace.
+01:50:44
+[Drone Service Provider 8] So are we saying we want to have established Lima Air Space as a when the traffic gets to a certain level Lima airspace then revert back to class G airspace base or will just stay as Lima Air Space, but it needs some sort of external support like for UTM, even though we haven't really defined what UTM is?
+01:50:57
+Well. I'll give you my thoughts, but they're quite half-baked at the moment.
+01:51:14
+[Prof. Jim Scanlan] So, the crucial distinction between let's say full strength UTM and Class Lima is that essentially UTM  is controlled airspace and so, beyond the certain traffic density what once there's a certain amount of traffic density, it may well be that we have to switch to the more extensive UTM model where operators file a flight plan and ANSP then approves a flight plan and does the construction managers deconfliction and my argument for Class Lima is let's not do that for low  traffic densities where it's simply an unnecessary expense and too complex and it's going to hold us back I regard these low traffic routes as our  stepping stone it's the low hanging fruit for commercial drone operations and, but it may well have a life cycle, it may well be once you get above a certain traffic density, you need..it's a bit like a road junction at certain traffic density you put traffic lights in.
+01:52:19
+[Prof. Jim Scanlan] Does that answer your question?
+01:52:44
+[Drone Service Provider 8] yeah I mean I’m a little bit I’m confused about is, I suppose, more than anything, is that we don't want to go down a UTM route, but we haven't actually defined what UTM is and UTM in my mind, is an enabler and you can have various levels of capability in that UTM system whereby can just be a method where we encourage people to submit a flight plan and then we can rebroadcast that information and people, then, are able to do to strategic deconfliction or you can go out to tactical deconfliction or into other aspects of it so.
+01:53:10
+[Drone Service Provider 8] It appears that what Lima air space actually trying to do we just trying to encourage everybody wishes to play in that space to actually participate in some way, shape or form and ultimately that's what we're trying to do in UTM and depending on traffic density and the complexity of the airspace, the requirements for that UTM or the capability of that UTM and will vary significantly so that's a bit of just playing the back of my mind at the moment what it is what is significantly different. Lima air space over UTM - I’d love to hear people's view on what they actually think UTM is no one internationally has defined what UTM is where it should be, services it provides anything along those lines yeah.
+01:53:57
+[Regulatory Body 2] I'm with you and Jim it's interesting that you, you kind of almost think that UTM is just going to be air traffic control for unmanned whereas actually you know I think it's much wider than that, and you know.
+01:54:14
+[Regulatory Body 2] UTM has just been a phrase that's just been coined because you know unmanned activity is starting to grow.
+01:54:19
+[Regulatory Body 2] But Actually, this is just part of a wider ATM and if people want to call it ATM then it's all traffic management, and you know the days of telling platforms to turn left turn right climb and descend are drawing to a close and ultimately traffic management is going to be about data sharing and whether that's you know platform to platform, ground to air, air to ground it doesn't matter and, and I see this, you know this use of TMZs is just an enabling of the segregated airspace and everything that you've got about sharing that data.
+01:54:51
+[Regulatory Body 2] Is that early levels of traffic management it's it's no different you can file a flight plan today to go flying class G not need to speak to anyone and it'll only be accessed by people that want to access it, so I think I’m with [Drone Service Provider 8] here on the fact that you know traffic management is for all air space and all platforms.
+01:55:09
+[Regulatory Body 2] And you know I think what you're trying to do at the moment is a get away from TDAs and is a stepping stone, while kind of traffic management develops to the kind of autonomous airspace that will probably be in the next you know 30-40 years’ time.
+01:55:24
+[Prof. Jim Scanlan] agree, I completely agree with what you've just said.
+01:55:40
+[Prof. Jim Scanlan] completely agree.
+01:55:43
+[Drone Industry Body/Association 1] it's not actually I’m going to come back to you on [Regulatory Body 2] on that a little bit, though. What we're trying to think a little bit what [they are] trying to develop this this idea of Okay, yes you've got digital traffic management, be that you UTM, ATM whatever you call it, but at some point that may fail, or there will be a lack of situational awareness, what are the, what are the layers below that one of the tactical deconstruction approaches that we can employ? And I think some of that needs to be iterated first UTM and future flight projects are already being done looking at various aspects of that.
+01:56:09
+[Drone Industry Body/Association 1] But don't really hear much around is the tactical deconfliction solutions that may exist, and I think what Lima is trying to say…what about these aspects of multi spherical VHF out?  We're not saying they’re perfect, but we need a layered approach below just a UTM construct.
+01:56:21
+[Drone Industry Body/Association 1] I think that's the bit that we're trying to get in potentially in the Lima piece of air space, rather than just another piece, where UTM can play I’m not saying you shouldn't but it's more when you look at the layers below what is just a UTM so that's I think the nuance I think in this in what Lima was trying to achieve I think in Lima versus UTM because Lima will incorporate UTM but it's what else exists.
+01:56:40
+[Regulatory Body 2] I wasn't saying that it was instead of, it was it was literally that you know, this is just a, a part of that wider traffic management it's and absolutely it's a layered approach and it's no different to any other  air space that's there at the moment, you know let's face it, if NATS falls over you know, there is a process and a plan that goes into place to reduce the traffic levels so that they can mandraulically sort it and I agree with what you're saying, but I think it's all part of a traffic management system, this is that first stepping stone, as what I was saying.
+01:57:04
+[Facilitator] We put a hand up from [Drone R&D - Academic 8] if you wouldn't mind unmuting yourself and speak.
+01:57:20
+[Drone R&D - Academic 8] Thanks very much very valuable discussions I hope you can hear me. 
+01:57:26
+[Drone R&D - Academic 8] And I’ve had a lot of likely, a lot of experience in this and, especially, 30-40 years in air traffic control traffic management. My point is that all be that I understand now that class Lima is probably misnamed to thanks to you for explaining that and I understand it better.
+01:57:37
+[Drone R&D - Academic 8] I think there is a need to clarify the reduction in risk the class Lima will bring compare with where we are now when, where we will be in the future with fully UTM etc, etc.
+01:57:44
+[Drone R&D - Academic 8] and understanding of what those those risk reduction points are and what that means to everyone, using the airspace and the public beneath the airspace and also how you would go around having that risk reduction accepted and who's going to accept that, and on behalf of who? I mean that's a pretty clear question that you need to ask, and I think probably the most important question this whole discussion, thank you very much.
+01:58:26
+[Facilitator] I don't know if anybody had any responses to those points from there, in terms of the key points communicating the Class Lima concept.
+001:58:29
+[Prof. Jim Scanlan] I would just respond, I agree, thank you very much for your contribution and when we talk about risk we don't know the risks we don't know very rarely do we actually quantify the risk, which is why I’m so keen.
+01:58:53
+[Prof. Jim Scanlan] In fact Aliaksei Pilko is on the call, I believe that doing the numbers doing the arithmetic and doing extensive simulation of what might go wrong, the frequency until we've got the numbers and nothing is risk free everything entails risks and actually the public reaction to risk is irrational, we know that.
+01:59:11
+[Prof. Jim Scanlan] But at least quantifying the risks is a step forward, I believe, as opposed to you know, putting a safety case together, where someone makes a judgment and puts a subjective you know value in in the box and so that's why we're keen on doing the mapping work, and you know if anyone's interested in seeing the mapping work that Aliaksei Pilko has done we'd be delighted to talk to him.
+01:59:52
+[Facilitator] There was a question earlier in the chat but we didn't get the chance to cover but I felt was pertinent someone's raising the issue of effectively future proofing electronic conspicuity.  And relying on a single source of electronic security wouldn't necessarily account for what systems would be incorporated into drones in the future.
+02:00:09
+[Facilitator] So how might that be accounted for thinking towards the future and potential technologies that are going to become more available or going to be mandated perhaps or become more popular? I can see [EC Equipment Manufacturer] got a hand up.
+02:00:19
+[EC Equipment Manufacturer] And we're already working with drone manufacturers to build ADSB conspicuity into the devices so yeah we currently put it into separate boxes which has to be carrying we can make them very, very small, but you still have to integrate it onto your drone so we're in touch with several of the major drone manufacturers about building them we can just provide the chip sets and build it straight into the device so that's an entirely feasible proposition.
+02:00:49
+[Prof. Jim Scanlan] yeah I don't know whether the question is sort of hinting at saturation and things, and you know, the need to consider alternative frequency so 978, for example.
+And even web technologies.
+02:01:13
+[Prof. Jim Scanlan] And you know networks or ground receivers that can alleviate that problem.
+02:01:16
+[Prof. Jim Scanlan] Certainly my vision of our starting point, which is this idiotic concept called Class Lima and idiotic name is to start small, and so we absolutely won't get into transponder saturation problems in Class Lima because of the traffic density won't be high enough.
+02:01:22
+[EC Equipment Manufacturer] So we're already looking at using 978 in the UK and the trials we're doing right now literally today are using 978 on the drones to detect and avoid and we cross fertilize between 1090 and 978 using a [Tiersby] service and that's precisely how it works in the States and that's overcome I mean they have a lot more airplanes but they've got the same spectrum, so you know that's been successful in the States they keep the smaller aeroplanes away from 1090 by putting them on 978 and the principal equally applies to keeping the drones away from 1090 by putting them on 978 and they're very against use of 1094 for even GA and electronic conspicuity in Europe, and so we work with AARSA and we are in a body with them just explaining to them, we can do this on 978 just as easily as we can do it on 1090 and get over that worry, because not sure it's been proven, but the worry about saturation.
+02:02:40
+[Facilitator] Just to clarify one of the earlier comments was expressing a slight concern over the potential limitations of ADSB which apparently is being met in some areas, I think that was leading the question about the future proofing of electronic conspicuity systems.
+02:02:59
+[Facilitator] Perhaps if ADSB is not going to be sufficient in the future, but perhaps that some a wider question, however, I think it might be worth just screen sharing the final slide where we can offer people next steps.
+02:04:12
