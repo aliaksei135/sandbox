@@ -48,6 +48,8 @@ def clean_to_traffic_df(raw_df: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
     """
     Clean and munge df to format expected by traffic library
     """
+    if not raw_df.shape[0]:
+        return raw_df
     raw_df['squawk'] = None
     raw_df['callsign'] = None
     raw_df['onground'] = False
@@ -56,7 +58,7 @@ def clean_to_traffic_df(raw_df: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
     out_df = raw_df.rename(
         {'Latitude': 'latitude', 'Longitude': 'longitude', 'Altitude': 'altitude', 'Time': 'timestamp',
          'RateOfClimb': 'vertical_rate'}, axis=1)
-    out_df = out_df.drop(labels=['ENL'], axis=1)
+    out_df = out_df.drop(labels=['ENL'], axis=1, errors='ignore')
     out_df['timestamp'] = pd.to_datetime(out_df['timestamp'])
     out_df['icao24'] = out_df['flight_id']
     out_df['callsign'] = out_df['flight_id']
@@ -91,7 +93,8 @@ if __name__ == '__main__':
             for fid in day_ids:
                 flight_df = get_trace(fid)
                 flight_df['flight_id'] = fid
-                day_dfs.append(flight_df)
+                if flight_df.shape[0]:
+                    day_dfs.append(flight_df)
             day_df = clean_to_traffic_df(pd.concat(day_dfs, axis=0))
             day_df.to_pickle(f'{DATA_DIR}/daily/bgaladder_raw_{d.year}-{d.month:02d}-{d.day:02d}.pkl.bz2',
                              compression='bz2')
@@ -100,4 +103,4 @@ if __name__ == '__main__':
         trace_gdfs.append(day_df)
 
     total_gdf = pd.concat(trace_gdfs, axis=0)
-    print(total_gdf.shape)
+    pd.read_pickle(f'{DATA_DIR}/bgaladder_raw_2019.pkl.bz2')
