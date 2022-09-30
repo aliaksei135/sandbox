@@ -81,9 +81,9 @@ if __name__ == '__main__':
     trace_gdfs = []
 
     for d in daterange(start_date, end_date):
-        if not is_early_morning():
-            # Stop execution if past morning cutoff to reduce server load
-            exit()
+        # if not is_early_morning():
+        #     # Stop execution if past morning cutoff to reduce server load
+        #     exit()
         if not Path(f'{DATA_DIR}/daily/bgaladder_raw_{d.year}-{d.month:02d}-{d.day:02d}.pkl.bz2').exists():
             day_ids = get_flight_ids(d)
             if not day_ids:
@@ -103,4 +103,4 @@ if __name__ == '__main__':
         trace_gdfs.append(day_df)
 
     total_gdf = pd.concat(trace_gdfs, axis=0)
-    pd.read_pickle(f'{DATA_DIR}/bgaladder_raw_2019.pkl.bz2')
+    total_gdf .to_pickle(f'{DATA_DIR}/bgaladder_raw_2019.pkl.bz2', compression='bz2')
